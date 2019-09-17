@@ -1,0 +1,13 @@
+---
+---
+$primary: #3b84c1;
+
+$body-family: Segoe UI, Helvetica, Arial, sans-serif;
+
+$code-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+
+// Import Main CSS file from theme
+@import "main";
+
+// Override
+.footer { padding: 1.5rem 1.5rem 1.5rem; }

@@ -1,0 +1,8 @@
+- name: About
+  link: /about.html
+- name: Contributing
+  link: /contributing.html
+- name: Changelog
+  link: /changelog.html
+- name: Contact
+  link: /contact.html

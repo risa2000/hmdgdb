@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+#gem 'github-pages'
+gem 'bulma-clean-theme'
+gem 'jekyll-relative-links'
+gem 'jekyll-remote-theme'
+gem 'jekyll-seo-tag'
+gem 'jekyll-github-metadata'

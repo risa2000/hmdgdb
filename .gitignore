@@ -1,0 +1,9 @@
+# ignore VSCode metadata
+.vscode/
+
+# ruby stuff
+Gemfile.lock
+
+# jekyll outputs
+_site
+.sass-cache

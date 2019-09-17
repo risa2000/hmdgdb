@@ -1,0 +1,39 @@
+# site settings
+#baseurl: /hmdgdb
+google_analytics: UA-1622439-6
+
+# theme
+# theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
+
+# plugins
+plugins:
+  - jekyll-relative-links
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+
+# defaults
+defaults:
+  - scope:
+      path: "**/*.md"
+    values:
+      hero_height: is-small
+      layout: page
+      hide_hero: true
+  - scope:
+      path: "hmd_cfgs/*.md"
+    values:
+      author: Richard Musil
+      menubar: true
+      menubar_toc: true
+
+# site SEO
+title: HMD Geometry Database
+author: Richard Musil
+description: Collected geometry data from some commercially available VR headsets.
+social:
+  name: Richard Musil
+  links:
+    - https://github.com/risa2000
+
