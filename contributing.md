@@ -25,6 +25,10 @@ then please follow this procedure:
 * Download the latest version of the `hmdq` tool from
   [here](https://github.com/risa2000/hmdq/releases/latest).
 * Activate your headset (if it needs any activation) and start SteamVR.
+* Change the settings related to the _recommended render target resolution_ to
+  their default values:
+  * In SteamVR change the supersampling factor to 100%.
+  * If you are using a Pimax headset set also PiTool Rendering Quality to 1.0.
 * Run `hmdq` from the command line (console) by using this command:
 ```
 hmdq -n --out_json <model_name_config_ipd_etc>.json
