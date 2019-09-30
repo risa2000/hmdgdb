@@ -1,6 +1,6 @@
 ---
 title: HP Reverb
-date: 2019-08-25 22:44:41
+date: 2019-09-30 18:36:56
 ---
 # HP Reverb
 
@@ -8,13 +8,13 @@ date: 2019-08-25 22:44:41
 
 as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq).
 ```
-    Time stamp: 2019-08-25 22:44:41
-  hmdq version: 1.0.2
-Output version: 3
-    OS version: 10.0.18362.295
-OpenVR version: 1.7.9
+    Time stamp: 2019-09-30 18:36:56
+  hmdq version: 1.3.1
+Output version: 4
+    OS version: 10.0.18362.356
+OpenVR version: 1.7.15
 
-Recommended render target size: [2276, 2228]
+Recommended render target size: [1608, 1576]
 
 Left eye HAM mesh:
      original vertices: 42, triangles: 14
@@ -22,77 +22,77 @@ Left eye HAM mesh:
              mesh area: 0.04 %
 
 Left eye to head transformation matrix:
-    [[ 9.99998808e-01 -2.78193242e-04  1.04175194e-03 -3.34944092e-02]
-     [ 2.78580410e-04  9.99996662e-01 -4.97577188e-04  5.45609568e-04]
-     [-1.04131771e-03  4.98283771e-04  9.99996424e-01 -2.50589306e-04]]
+    [[ 9.99995351e-01 -5.44562754e-05 -8.96942918e-04 -2.94943042e-02]
+     [ 5.19069145e-05  9.99996543e-01 -1.22563192e-03  4.90230974e-04]
+     [ 8.97436927e-04  1.22554961e-03  9.99995232e-01 -3.45972629e-04]]
 
 Left eye raw LRBT values:
-    left:        -1.102668
-    right:        0.944358
-    bottom:      -1.002467
-    top:          1.007847
+    left:        -1.108628
+    right:        0.946306
+    bottom:      -1.003369
+    top:          1.010052
 
 Left eye raw FOV:
-    left:       -47.80 deg
-    right:       43.36 deg
-    bottom:     -45.07 deg
-    top:         45.22 deg
-    horiz.:      91.16 deg
-    vert.:       90.29 deg
+    left:       -47.95 deg
+    right:       43.42 deg
+    bottom:     -45.10 deg
+    top:         45.29 deg
+    horiz.:      91.37 deg
+    vert.:       90.38 deg
 
 Left eye head FOV:
-    left:       -47.86 deg
-    right:       43.30 deg
-    bottom:     -45.04 deg
-    top:         45.25 deg
-    horiz.:      91.16 deg
-    vert.:       90.29 deg
+    left:       -47.90 deg
+    right:       43.47 deg
+    bottom:     -45.03 deg
+    top:         45.36 deg
+    horiz.:      91.37 deg
+    vert.:       90.38 deg
 
 Right eye HAM mesh:
      original vertices: 42, triangles: 14
-    optimized vertices: 23, n-gons: 5
+    optimized vertices: 24, n-gons: 6
              mesh area: 0.04 %
 
 Right eye to head transformation matrix:
-    [[ 9.99998868e-01  2.78601219e-04 -1.04131934e-03  3.34942900e-02]
-     [-2.78217252e-04  9.99996662e-01  4.98507288e-04 -5.46843046e-04]
-     [ 1.04175787e-03 -4.97838017e-04  9.99996543e-01  2.51465535e-04]]
+    [[ 9.99995410e-01  5.06595024e-05  8.97265505e-04  2.94939298e-02]
+     [-5.32151898e-05  9.99996662e-01  1.22515601e-03 -4.90901992e-04]
+     [-8.96756013e-04 -1.22525624e-03  9.99995112e-01  3.53860989e-04]]
 
 Right eye raw LRBT values:
-    left:        -0.944502
-    right:        1.112957
-    bottom:      -0.995849
-    top:          1.018947
+    left:        -0.947934
+    right:        1.107410
+    bottom:      -0.997196
+    top:          1.019531
 
 Right eye raw FOV:
-    left:       -43.37 deg
-    right:       48.06 deg
-    bottom:     -44.88 deg
-    top:         45.54 deg
-    horiz.:      91.43 deg
-    vert.:       90.42 deg
+    left:       -43.47 deg
+    right:       47.92 deg
+    bottom:     -44.92 deg
+    top:         45.55 deg
+    horiz.:      91.39 deg
+    vert.:       90.47 deg
 
 Right eye head FOV:
-    left:       -43.31 deg
-    right:       48.12 deg
-    bottom:     -44.91 deg
-    top:         45.51 deg
-    horiz.:      91.43 deg
-    vert.:       90.42 deg
+    left:       -43.52 deg
+    right:       47.87 deg
+    bottom:     -44.99 deg
+    top:         45.48 deg
+    horiz.:      91.39 deg
+    vert.:       90.47 deg
 
 Total FOV:
-    horizontal:  95.97 deg
-    vertical:    90.36 deg
-    diagonal:   111.91 deg
-    overlap:     86.61 deg
+    horizontal:  95.76 deg
+    vertical:    90.43 deg
+    diagonal:   111.78 deg
+    overlap:     86.99 deg
 
 View geometry:
-    left panel rotation:    -0.2 deg
-    right panel rotation:    0.2 deg
-    reported IPD:           67.0 mm
+    left panel rotation:     0.2 deg
+    right panel rotation:   -0.2 deg
+    reported IPD:           59.0 mm
 
 ```
-Recorded and contributed by _nukular_.
+Recorded and contributed by _dillanski_.
 
 ## Rendered FOV visualizations
 

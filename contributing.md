@@ -7,7 +7,7 @@ title: Contributing
 The data in the database are collected by volunteers, who own the headsets in
 question, by using [`hmdq`
 tool](https://github.com/risa2000/hmdq/releases/latest). Then they pass the
-data (which are saved in a JSON file) to me and I update the database.  If you
+data (which are saved in a JSON file) to me and I update the database. If you
 would like to help by providing data from your headset, you will need:
 
 * OpenVR/SteamVR compatible headset,
