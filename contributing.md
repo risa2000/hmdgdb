@@ -36,10 +36,13 @@ hmdq -n --out_json <model_name_config_ipd_etc>.json
 ```
 Differentiate the file name by the configuration options if there are any
 (parallel projection, FOV, IPD, etc.).
-
-* `-n` parameter will anonymize the serial numbers in the output data, and
-* `--out_json` will save the data into a JSON file. This is a text file so you
-  can review it easily in any text editor.
+  * `-n` parameter will anonymize the serial numbers in the output data, and
+  * `--out_json` will save the data into a JSON file. This is a text file so
+    you can review it easily in any text editor.
+* Alternatively, you can run the script `save_data.cmd` which will run
+  `hmdq.exe` with the command line arguments mentioned above and will save the
+  data into `hmdq_data.json` file in the same directory. Then you just rename
+  the file to better describe the configuration.
 
 If you have a headset which allows an IPD adjustment (either mechanical or in
 software), I would like to ask you to run the above steps for the minimal and
