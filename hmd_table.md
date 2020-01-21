@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2019-09-30 19:49:55
+date: 2020-01-21 20:27:47
 permalink: /
 ---
 # HMD Geometry Database
@@ -20,6 +20,7 @@ see
 Model | Config | FOV hor. | FOV ver. | FOV diag. | Overlap | HAM | Rot LE | Rot RE
 --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---:
 HP Reverb | [Native](hmd_cfgs/Reverb_Native.md) | [95.76°](images/Reverb_Native_top.dmx.png) | [90.43°](images/Reverb_Native_left.dmx.png) | [111.78°](images/Reverb_Native_over.dmx.png) | [86.99°](images/Reverb_Native_top.dmx.png) | [0.04%](images/Reverb_Native_back.dmx.png) | 0.2° | -0.2°
+HTC Vive Pro | [Native](hmd_cfgs/VivePro_Native.md) | [107.06°](images/VivePro_Native_top.dmx.png) | [107.71°](images/VivePro_Native_left.dmx.png) | [110.48°](images/VivePro_Native_over.dmx.png) | [90.46°](images/VivePro_Native_top.dmx.png) | [20.20%](images/VivePro_Native_back.dmx.png) |  | 
 HTC Vive | [Native](hmd_cfgs/Vive_Native.md) | [108.77°](images/Vive_Native_top.dmx.png) | [111.53°](images/Vive_Native_left.dmx.png) | [113.18°](images/Vive_Native_over.dmx.png) | [93.45°](images/Vive_Native_top.dmx.png) | [19.10%](images/Vive_Native_back.dmx.png) |  | 
 Oculus Rift CV1 | [Native](hmd_cfgs/OculusRiftCV1_Native.md) | [87.95°](images/OculusRiftCV1_Native_top.dmx.png) | [89.66°](images/OculusRiftCV1_Native_left.dmx.png) | [108.25°](images/OculusRiftCV1_Native_over.dmx.png) | [71.15°](images/OculusRiftCV1_Native_top.dmx.png) |  |  | 
 Pimax 5K Plus | [Large+Native](hmd_cfgs/Pimax5KPlus_Large_Native.md) | [160.29°](images/Pimax5KPlus_Large_Native_top.dmx.png) | [102.70°](images/Pimax5KPlus_Large_Native_left.dmx.png) | [158.04°](images/Pimax5KPlus_Large_Native_over.dmx.png) | [86.79°](images/Pimax5KPlus_Large_Native_top.dmx.png) | [3.49%](images/Pimax5KPlus_Large_Native_back.dmx.png) | -10.0° | 10.0°
@@ -73,5 +74,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2019-09-30 18:36:56  
-The table was generated: 2019-09-30 19:49:55
+The latest headset data recorded: 2020-01-21 12:18:35  
+The table was generated: 2020-01-21 20:27:47
