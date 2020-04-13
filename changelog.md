@@ -3,6 +3,8 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*March 13, 2020*
+* Oculus Quest (added)
 
 *January 21, 2020*
 * HTC Vive Pro (added)

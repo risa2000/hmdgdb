@@ -8,10 +8,16 @@ date: 2019-08-02 22:57:00
 
 as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq).
 ```
+hmdv version 1.3.90 - displaying hmdq output data in no time
+
     Time stamp: 2019-08-02 22:57:00
   hmdq version: 0.2.4
 Output version: 1
     OS version: 10.0.17763.615
+
+... Subsystem: OpenVR ...
+
+OpenVR runtime version: n/a
 
 Recommended render target size: [2584, 2276]
 
@@ -21,9 +27,9 @@ Left eye HAM mesh:
              mesh area: 8.73 %
 
 Left eye to head transformation matrix:
-    [[ 1.          0.          0.         -0.03350208]
-     [ 0.          1.          0.          0.        ]
-     [ 0.          0.          1.          0.        ]]
+    [[ 1.      ,  0.      ,  0.      , -0.033502],
+     [ 0.      ,  1.      ,  0.      ,  0.      ],
+     [ 0.      ,  0.      ,  1.      ,  0.      ]]
 
 Left eye raw LRBT values:
     left:        -2.769231
@@ -45,9 +51,9 @@ Right eye HAM mesh:
              mesh area: 8.73 %
 
 Right eye to head transformation matrix:
-    [[1.         0.         0.         0.03350208]
-     [0.         1.         0.         0.        ]
-     [0.         0.         1.         0.        ]]
+    [[ 1.      ,  0.      ,  0.      ,  0.033502],
+     [ 0.      ,  1.      ,  0.      ,  0.      ],
+     [ 0.      ,  0.      ,  1.      ,  0.      ]]
 
 Right eye raw LRBT values:
     left:        -0.945419
@@ -73,6 +79,7 @@ View geometry:
     left panel rotation:     0.0 deg
     right panel rotation:    0.0 deg
     reported IPD:           67.0 mm
+
 
 ```
 Recorded and contributed by _Heliosurge_.

@@ -1,6 +1,6 @@
 ---
 title: HTC Vive
-date: 2019-09-20 13:08:36
+date: 2020-04-13 16:55:58
 ---
 # HTC Vive
 
@@ -8,11 +8,16 @@ date: 2019-09-20 13:08:36
 
 as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq).
 ```
-    Time stamp: 2019-09-20 13:08:36
-  hmdq version: 1.3.1
-Output version: 4
-    OS version: 10.0.18362.356
-OpenVR version: 1.7.15
+hmdv version 1.3.90 - displaying hmdq output data in no time
+
+    Time stamp: 2020-04-13 16:55:58
+  hmdq version: 1.3.4
+Output version: 5
+    OS version: 10.0.18362.720
+
+... Subsystem: OpenVR ...
+
+OpenVR runtime version: 1.10.32
 
 Recommended render target size: [1512, 1680]
 
@@ -22,9 +27,9 @@ Left eye HAM mesh:
              mesh area: 19.10 %
 
 Left eye to head transformation matrix:
-    [[ 1.      0.      0.     -0.0358]
-     [ 0.      1.      0.      0.    ]
-     [ 0.      0.      1.      0.015 ]]
+    [[ 1.      ,  0.      ,  0.      , -0.036   ],
+     [ 0.      ,  1.      ,  0.      ,  0.      ],
+     [ 0.      ,  0.      ,  1.      ,  0.015   ]]
 
 Left eye raw LRBT values:
     left:        -1.397283
@@ -46,9 +51,9 @@ Right eye HAM mesh:
              mesh area: 19.10 %
 
 Right eye to head transformation matrix:
-    [[1.     0.     0.     0.0358]
-     [0.     1.     0.     0.    ]
-     [0.     0.     1.     0.015 ]]
+    [[ 1.      ,  0.      ,  0.      ,  0.036   ],
+     [ 0.      ,  1.      ,  0.      ,  0.      ],
+     [ 0.      ,  0.      ,  1.      ,  0.015   ]]
 
 Right eye raw LRBT values:
     left:        -1.247887
@@ -73,7 +78,8 @@ Total FOV:
 View geometry:
     left panel rotation:     0.0 deg
     right panel rotation:    0.0 deg
-    reported IPD:           71.6 mm
+    reported IPD:           72.0 mm
+
 
 ```
 Recorded and contributed by _risa2000_.
