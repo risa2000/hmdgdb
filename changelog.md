@@ -3,6 +3,9 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*March 18, 2020*
+* Oculus Rift CV1 (updated)
+
 *March 13, 2020*
 * Oculus Quest (added)
 

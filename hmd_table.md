@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2020-04-13 20:57:16
+date: 2020-04-18 08:34:22
 permalink: /
 ---
 # HMD Geometry Database
@@ -22,7 +22,7 @@ Model | Config | FOV hor. | FOV ver. | FOV diag. | Overlap | HAM | Rot LE | Rot 
 HP Reverb | [Native](hmd_cfgs/Reverb_Native.md) | [95.76°](images/Reverb_Native_top.dmx.png) | [90.43°](images/Reverb_Native_left.dmx.png) | [111.78°](images/Reverb_Native_over.dmx.png) | [86.99°](images/Reverb_Native_top.dmx.png) | [0.04%](images/Reverb_Native_back.dmx.png) | 0.2° | -0.2°
 HTC Vive Pro | [Native](hmd_cfgs/VivePro_Native.md) | [107.06°](images/VivePro_Native_top.dmx.png) | [107.71°](images/VivePro_Native_left.dmx.png) | [110.48°](images/VivePro_Native_over.dmx.png) | [90.46°](images/VivePro_Native_top.dmx.png) | [20.20%](images/VivePro_Native_back.dmx.png) |  | 
 HTC Vive | [Native](hmd_cfgs/Vive_Native.md) | [108.77°](images/Vive_Native_top.dmx.png) | [111.53°](images/Vive_Native_left.dmx.png) | [113.18°](images/Vive_Native_over.dmx.png) | [93.45°](images/Vive_Native_top.dmx.png) | [19.10%](images/Vive_Native_back.dmx.png) |  | 
-Oculus Rift CV1 | [Native](hmd_cfgs/OculusRiftCV1_Native.md) | [87.95°](images/OculusRiftCV1_Native_top.dmx.png) | [89.66°](images/OculusRiftCV1_Native_left.dmx.png) | [108.25°](images/OculusRiftCV1_Native_over.dmx.png) | [71.15°](images/OculusRiftCV1_Native_top.dmx.png) |  |  | 
+Oculus Rift CV1 | [Native](hmd_cfgs/OculusRiftCV1_Native.md) | [87.95°](images/OculusRiftCV1_Native_top.dmx.png) | [89.66°](images/OculusRiftCV1_Native_left.dmx.png) | [98.07°](images/OculusRiftCV1_Native_over.dmx.png) | [71.15°](images/OculusRiftCV1_Native_top.dmx.png) | [14.07%](images/OculusRiftCV1_Native_back.dmx.png) |  | 
 Oculus Quest | [Native](hmd_cfgs/Quest_Native.md) | [104.00°](images/Quest_Native_top.dmx.png) | [100.00°](images/Quest_Native_left.dmx.png) | [115.52°](images/Quest_Native_over.dmx.png) | [84.00°](images/Quest_Native_top.dmx.png) | [5.69%](images/Quest_Native_back.dmx.png) |  | 
 Pimax 5K Plus | [Large+Native](hmd_cfgs/Pimax5KPlus_Large_Native.md) | [160.29°](images/Pimax5KPlus_Large_Native_top.dmx.png) | [102.70°](images/Pimax5KPlus_Large_Native_left.dmx.png) | [158.04°](images/Pimax5KPlus_Large_Native_over.dmx.png) | [86.79°](images/Pimax5KPlus_Large_Native_top.dmx.png) | [3.49%](images/Pimax5KPlus_Large_Native_back.dmx.png) | -10.0° | 10.0°
 Pimax 5K Plus | [Large+PP](hmd_cfgs/Pimax5KPlus_Large_PP.md) | [160.29°](images/Pimax5KPlus_Large_PP_top.dmx.png) | ([114.57°](images/Pimax5KPlus_Large_PP_left.dmx.png)) | [160.99°](images/Pimax5KPlus_Large_PP_over.dmx.png) | [86.79°](images/Pimax5KPlus_Large_PP_top.dmx.png) | [1.75%](images/Pimax5KPlus_Large_PP_back.dmx.png) |  | 
@@ -75,5 +75,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2020-04-13 16:57:38  
-The table was generated: 2020-04-13 20:57:16
+The latest headset data recorded: 2020-04-14 20:06:58  
+The table was generated: 2020-04-18 08:34:22

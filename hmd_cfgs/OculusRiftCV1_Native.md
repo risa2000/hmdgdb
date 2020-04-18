@@ -1,6 +1,6 @@
 ---
 title: Oculus Rift CV1
-date: 2019-08-03 16:17:04
+date: 2020-04-14 20:06:58
 ---
 # Oculus Rift CV1
 
@@ -8,73 +8,91 @@ date: 2019-08-03 16:17:04
 
 as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq).
 ```
-hmdv version 1.3.90 - displaying hmdq output data in no time
+hmdv version 2.0.0 - displaying hmdq output data in no time
 
-    Time stamp: 2019-08-03 16:17:04
-  hmdq version: 0.2.4
-Output version: 1
-    OS version: 10.0.17763.615
+    Time stamp: 2020-04-14 20:06:58
+  hmdq version: 1.3.90
+Output version: 5
+    OS version: 10.0.18362.720
 
-... Subsystem: OpenVR ...
+... Subsystem: Oculus ...
 
-OpenVR runtime version: n/a
+Oculus runtime version: 1.47.0
 
-Recommended render target size: [2328, 2768]
+Default FOV:
 
-Left eye HAM mesh:
-    No mesh defined by the headset
+    Recommended render target size: [1344, 1600]
 
-Left eye to head transformation matrix:
-    [[ 1.      ,  0.      ,  0.      , -0.035163],
-     [ 0.      ,  1.      ,  0.      ,  0.      ],
-     [ 0.      ,  0.      ,  1.      ,  0.      ]]
+    Left eye HAM mesh:
+        optimized vertices: 120, n-gons: 40
+                 mesh area: 14.07 %
 
-Left eye raw LRBT values:
-    left:        -0.964926
-    right:        0.715264
-    bottom:      -1.110925
-    top:          0.889498
+    Left eye to head transformation matrix:
+        [[ 1.      ,  0.      ,  0.      , -0.030274],
+         [ 0.      ,  1.      ,  0.      ,  0.      ],
+         [ 0.      ,  0.      ,  1.      ,  0.      ]]
 
-Left eye head FOV:
-    left:       -43.98 deg
-    right:       35.57 deg
-    bottom:     -48.01 deg
-    top:         41.65 deg
-    horiz.:      79.55 deg
-    vert.:       89.66 deg
+    Left eye raw LRBT values:
+        left:        -0.964926
+        right:        0.715264
+        bottom:      -1.110925
+        top:          0.889498
 
-Right eye HAM mesh:
-    No mesh defined by the headset
+    Left eye render description:
+        distorted viewport: [[0, 0], [1080, 1200]]
+        pixels per tan:     [792.76, 792.76]
+        HMD to eye pose:
+            position:    [-0.030274, 0.0000, 0.0000]
+            orientation: [0.0, 0.0, 0.0, 1.0]
 
-Right eye to head transformation matrix:
-    [[ 1.      ,  0.      ,  0.      ,  0.035163],
-     [ 0.      ,  1.      ,  0.      ,  0.      ],
-     [ 0.      ,  0.      ,  1.      ,  0.      ]]
+    Left eye head FOV:
+        left:       -43.98 deg
+        right:       35.57 deg
+        bottom:     -48.01 deg
+        top:         41.65 deg
+        horiz.:      79.55 deg
+        vert.:       89.66 deg
 
-Right eye raw LRBT values:
-    left:        -0.715264
-    right:        0.964926
-    bottom:      -1.110925
-    top:          0.889498
+    Right eye HAM mesh:
+        optimized vertices: 120, n-gons: 40
+                 mesh area: 14.07 %
 
-Right eye head FOV:
-    left:       -35.57 deg
-    right:       43.98 deg
-    bottom:     -48.01 deg
-    top:         41.65 deg
-    horiz.:      79.55 deg
-    vert.:       89.66 deg
+    Right eye to head transformation matrix:
+        [[ 1.      ,  0.      ,  0.      ,  0.030274],
+         [ 0.      ,  1.      ,  0.      ,  0.      ],
+         [ 0.      ,  0.      ,  1.      ,  0.      ]]
 
-Total FOV:
-    horizontal:  87.95 deg
-    vertical:    89.66 deg
-    diagonal:   108.25 deg
-    overlap:     71.15 deg
+    Right eye raw LRBT values:
+        left:        -0.715264
+        right:        0.964926
+        bottom:      -1.110925
+        top:          0.889498
 
-View geometry:
-    left panel rotation:     0.0 deg
-    right panel rotation:    0.0 deg
-    reported IPD:           70.3 mm
+    Right eye render description:
+        distorted viewport: [[1080, 0], [1080, 1200]]
+        pixels per tan:     [792.76, 792.76]
+        HMD to eye pose:
+            position:    [0.030274, 0.0000, 0.0000]
+            orientation: [0.0, 0.0, 0.0, 1.0]
+
+    Right eye head FOV:
+        left:       -35.57 deg
+        right:       43.98 deg
+        bottom:     -48.01 deg
+        top:         41.65 deg
+        horiz.:      79.55 deg
+        vert.:       89.66 deg
+
+    Total FOV:
+        horizontal:  87.95 deg
+        vertical:    89.66 deg
+        diagonal:    98.07 deg
+        overlap:     71.15 deg
+
+    View geometry:
+        left view rotation:     0.0 deg
+        right view rotation:    0.0 deg
+        reported IPD:          60.5 mm
 
 
 ```

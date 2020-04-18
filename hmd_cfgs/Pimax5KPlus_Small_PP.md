@@ -8,7 +8,7 @@ date: 2019-09-20 13:30:15
 
 as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq).
 ```
-hmdv version 1.3.90 - displaying hmdq output data in no time
+hmdv version 2.0.0 - displaying hmdq output data in no time
 
     Time stamp: 2019-09-20 13:30:15
   hmdq version: 1.3.1
@@ -76,9 +76,9 @@ Total FOV:
     overlap:     86.79 deg
 
 View geometry:
-    left panel rotation:     0.0 deg
-    right panel rotation:    0.0 deg
-    reported IPD:           70.0 mm
+    left view rotation:     0.0 deg
+    right view rotation:    0.0 deg
+    reported IPD:          70.0 mm
 
 
 ```
