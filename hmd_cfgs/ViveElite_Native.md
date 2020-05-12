@@ -1,8 +1,8 @@
 ---
-title: HTC Vive
-date: 2020-04-18 10:16:22
+title: HTC Vive Elite
+date: 2020-05-12 14:38:12
 ---
-# HTC Vive
+# HTC Vive Elite
 
 ## Geometry
 
@@ -10,79 +10,75 @@ as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq
 ```
 hmdv version 2.0.0 - displaying hmdq output data in no time
 
-    Time stamp: 2020-04-18 10:16:22
-  hmdq version: 2.0.0
+    Time stamp: 2020-05-12 14:38:12
+  hmdq version: 2.0.1
 Output version: 5
-    OS version: 10.0.18362.720
+    OS version: 10.0.18362.778
 
 ... Subsystem: OpenVR ...
 
-OpenVR runtime version: 1.10.32
+OpenVR runtime version: 1.11.11
 
-Recommended render target size: [1852, 2056]
+Recommended render target size: [2016, 2380]
 
 Left eye HAM mesh:
-     original vertices: 60, triangles: 20
-    optimized vertices: 28, n-gons: 4
-             mesh area: 19.10 %
+    No mesh defined by the headset
 
 Left eye to head transformation matrix:
-    [[ 1.      ,  0.      ,  0.      , -0.0362  ],
+    [[ 1.      ,  0.      ,  0.      , -0.03335 ],
      [ 0.      ,  1.      ,  0.      ,  0.      ],
      [ 0.      ,  0.      ,  1.      ,  0.015   ]]
 
 Left eye raw LRBT values:
-    left:        -1.397283
-    right:        1.250510
-    bottom:      -1.477517
-    top:          1.464221
+    left:        -1.139637
+    right:        0.990179
+    bottom:      -1.267859
+    top:          1.246508
 
 Left eye head FOV:
-    left:       -54.41 deg
-    right:       46.75 deg
-    bottom:     -55.91 deg
-    top:         55.67 deg
-    horiz.:     101.16 deg
-    vert.:      111.58 deg
+    left:       -48.73 deg
+    right:       44.72 deg
+    bottom:     -51.74 deg
+    top:         51.26 deg
+    horiz.:      93.45 deg
+    vert.:      103.00 deg
 
 Right eye HAM mesh:
-     original vertices: 60, triangles: 20
-    optimized vertices: 28, n-gons: 4
-             mesh area: 19.10 %
+    No mesh defined by the headset
 
 Right eye to head transformation matrix:
-    [[ 1.      ,  0.      ,  0.      ,  0.0362  ],
+    [[ 1.      ,  0.      ,  0.      ,  0.03335 ],
      [ 0.      ,  1.      ,  0.      ,  0.      ],
      [ 0.      ,  0.      ,  1.      ,  0.015   ]]
 
 Right eye raw LRBT values:
-    left:        -1.247887
-    right:        1.394608
-    bottom:      -1.475235
-    top:          1.460934
+    left:        -0.999962
+    right:        1.130730
+    bottom:      -1.260628
+    top:          1.254772
 
 Right eye head FOV:
-    left:       -46.69 deg
-    right:       54.36 deg
-    bottom:     -55.87 deg
-    top:         55.61 deg
-    horiz.:     101.05 deg
-    vert.:      111.48 deg
+    left:       -45.00 deg
+    right:       48.51 deg
+    bottom:     -51.58 deg
+    top:         51.45 deg
+    horiz.:      93.51 deg
+    vert.:      103.02 deg
 
 Total FOV:
-    horizontal: 108.77 deg
-    vertical:   111.53 deg
-    diagonal:   113.18 deg
-    overlap:     93.45 deg
+    horizontal:  97.24 deg
+    vertical:   103.01 deg
+    diagonal:   118.89 deg
+    overlap:     89.72 deg
 
 View geometry:
     left view rotation:     0.0 deg
     right view rotation:    0.0 deg
-    reported IPD:          72.4 mm
+    reported IPD:          66.7 mm
 
 
 ```
-Recorded and contributed by _risa2000_.
+Recorded and contributed by _vrgamerdude_.
 
 ## Rendered FOV visualizations
 
@@ -126,14 +122,14 @@ of the image.
   into the parallel (checkerboard) plane.
 
 ### Top view
-[![HTC Vive - top view](../images/Vive_Native_top.dmx.png)](../images/Vive_Native_top.dmx.png)
+[![HTC Vive Elite - top view](../images/ViveElite_Native_top.dmx.png)](../images/ViveElite_Native_top.dmx.png)
 
 ### Left view
-[![HTC Vive - left view](../images/Vive_Native_left.dmx.png)](../images/Vive_Native_left.dmx.png)
+[![HTC Vive Elite - left view](../images/ViveElite_Native_left.dmx.png)](../images/ViveElite_Native_left.dmx.png)
 
 ### Back view
-[![HTC Vive - back view](../images/Vive_Native_back.dmx.png)](../images/Vive_Native_back.dmx.png)
+[![HTC Vive Elite - back view](../images/ViveElite_Native_back.dmx.png)](../images/ViveElite_Native_back.dmx.png)
 
 ### Full view
-[![HTC Vive - full view](../images/Vive_Native_over.dmx.png)](../images/Vive_Native_over.dmx.png)
+[![HTC Vive Elite - full view](../images/ViveElite_Native_over.dmx.png)](../images/ViveElite_Native_over.dmx.png)
 

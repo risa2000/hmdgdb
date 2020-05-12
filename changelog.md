@@ -3,6 +3,9 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*May 12, 2020*
+* HTC Vive Elite (added)
+
 *March 18, 2020*
 * Oculus Rift CV1 (updated)
 

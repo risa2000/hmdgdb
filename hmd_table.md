@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2020-04-18 08:34:22
+date: 2020-05-12 22:05:02
 permalink: /
 ---
 # HMD Geometry Database
@@ -20,6 +20,7 @@ see
 Model | Config | FOV hor. | FOV ver. | FOV diag. | Overlap | HAM | Rot LE | Rot RE
 --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---:
 HP Reverb | [Native](hmd_cfgs/Reverb_Native.md) | [95.76°](images/Reverb_Native_top.dmx.png) | [90.43°](images/Reverb_Native_left.dmx.png) | [111.78°](images/Reverb_Native_over.dmx.png) | [86.99°](images/Reverb_Native_top.dmx.png) | [0.04%](images/Reverb_Native_back.dmx.png) | 0.2° | -0.2°
+HTC Vive Elite | [Native](hmd_cfgs/ViveElite_Native.md) | [97.24°](images/ViveElite_Native_top.dmx.png) | [103.01°](images/ViveElite_Native_left.dmx.png) | [118.89°](images/ViveElite_Native_over.dmx.png) | [89.72°](images/ViveElite_Native_top.dmx.png) |  |  | 
 HTC Vive Pro | [Native](hmd_cfgs/VivePro_Native.md) | [107.06°](images/VivePro_Native_top.dmx.png) | [107.71°](images/VivePro_Native_left.dmx.png) | [110.48°](images/VivePro_Native_over.dmx.png) | [90.46°](images/VivePro_Native_top.dmx.png) | [20.20%](images/VivePro_Native_back.dmx.png) |  | 
 HTC Vive | [Native](hmd_cfgs/Vive_Native.md) | [108.77°](images/Vive_Native_top.dmx.png) | [111.53°](images/Vive_Native_left.dmx.png) | [113.18°](images/Vive_Native_over.dmx.png) | [93.45°](images/Vive_Native_top.dmx.png) | [19.10%](images/Vive_Native_back.dmx.png) |  | 
 Oculus Rift CV1 | [Native](hmd_cfgs/OculusRiftCV1_Native.md) | [87.95°](images/OculusRiftCV1_Native_top.dmx.png) | [89.66°](images/OculusRiftCV1_Native_left.dmx.png) | [98.07°](images/OculusRiftCV1_Native_over.dmx.png) | [71.15°](images/OculusRiftCV1_Native_top.dmx.png) | [14.07%](images/OculusRiftCV1_Native_back.dmx.png) |  | 
@@ -75,5 +76,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2020-04-14 20:06:58  
-The table was generated: 2020-04-18 08:34:22
+The latest headset data recorded: 2020-05-12 14:38:12  
+The table was generated: 2020-05-12 22:05:02
