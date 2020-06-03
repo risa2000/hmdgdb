@@ -10,7 +10,8 @@ tool](https://github.com/risa2000/hmdq/releases/latest). Then they pass the
 data (which are saved in a JSON file) to me and I update the database. If you
 would like to help by providing data from your headset, you will need:
 
-* OpenVR/SteamVR compatible headset,
+* OpenVR/SteamVR compatible headset, or
+* Oculus headset
 * Windows 10, 64-bit (not tested, but may work on Windows 7/8 64-bit)
 
 then please follow this procedure:
@@ -25,11 +26,13 @@ then please follow this procedure:
   * Your data are significantly different from what is stored in the database. 
 * Download the latest version of the `hmdq` tool from
   [here](https://github.com/risa2000/hmdq/releases/latest).
-* Activate your headset (if it needs any activation) and start SteamVR.
-* Change the settings related to the _recommended render target resolution_ to
-  their default values:
-  * In SteamVR change the supersampling factor to 100%.
-  * If you are using a Pimax headset set also PiTool Rendering Quality to 1.0.
+* Activate your headset (if it needs any activation) and:
+  * if it is a SteamVR supported headset, start SteamVR
+    * Change the settings related to the _recommended render target resolution_ to
+      their default values:
+      * In SteamVR change the supersampling factor to 100%.
+      * If you are using a Pimax headset set also PiTool Rendering Quality to 1.0.
+  * if it is a Oculus headset, just make sure your Oculus runtime is running.
 * Run `hmdq` from the command line (console) by using this command:
 ```
 hmdq -n --out_json <model_name_config_ipd_etc>.json
