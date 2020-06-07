@@ -3,6 +3,10 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*June 6, 2020*
+* Added a refresh rate as another parameter.
+* Pimax Vision 8k+ (added)
+
 *May 12, 2020*
 * HTC Vive Elite (added)
 
