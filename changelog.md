@@ -3,6 +3,9 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*July 20, 2020*
+* Pimax Vision 8k-X (added)
+
 *June 6, 2020*
 * Added a refresh rate as another parameter.
 * Pimax Vision 8k+ (added)

@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2020-06-07 19:51:45
+date: 2020-07-18 22:08:48
 permalink: /
 ---
 # HMD Geometry Database
@@ -61,6 +61,14 @@ Pimax Vision 8K Plus | [Tiny+Native+90Hz](hmd_cfgs/PimaxVision8KPlus_Tiny_Native
 Pimax Vision 8K Plus | [Tiny+PP+110Hz](hmd_cfgs/PimaxVision8KPlus_Tiny_PP_110Hz.md) | [99.21°](images/PimaxVision8KPlus_Tiny_PP_110Hz_top.dmx.png) | ([110.27°](images/PimaxVision8KPlus_Tiny_PP_110Hz_left.dmx.png)) | [113.78°](images/PimaxVision8KPlus_Tiny_PP_110Hz_over.dmx.png) | [86.79°](images/PimaxVision8KPlus_Tiny_PP_110Hz_top.dmx.png) | [19.11%](images/PimaxVision8KPlus_Tiny_PP_110Hz_back.dmx.png) |  | 
 Pimax Vision 8K Plus | [Tiny+PP+72Hz](hmd_cfgs/PimaxVision8KPlus_Tiny_PP_72Hz.md) | [100.29°](images/PimaxVision8KPlus_Tiny_PP_72Hz_top.dmx.png) | ([110.04°](images/PimaxVision8KPlus_Tiny_PP_72Hz_left.dmx.png)) | [114.20°](images/PimaxVision8KPlus_Tiny_PP_72Hz_over.dmx.png) | [86.79°](images/PimaxVision8KPlus_Tiny_PP_72Hz_top.dmx.png) | [19.11%](images/PimaxVision8KPlus_Tiny_PP_72Hz_back.dmx.png) |  | 
 Pimax Vision 8K Plus | [Tiny+PP+90Hz](hmd_cfgs/PimaxVision8KPlus_Tiny_PP_90Hz.md) | [100.29°](images/PimaxVision8KPlus_Tiny_PP_90Hz_top.dmx.png) | ([110.04°](images/PimaxVision8KPlus_Tiny_PP_90Hz_left.dmx.png)) | [114.20°](images/PimaxVision8KPlus_Tiny_PP_90Hz_over.dmx.png) | [86.79°](images/PimaxVision8KPlus_Tiny_PP_90Hz_top.dmx.png) | [19.11%](images/PimaxVision8KPlus_Tiny_PP_90Hz_back.dmx.png) |  | 
+Pimax Vision 8K X | [Large+Native+75Hz](hmd_cfgs/PimaxVision8KX_Large_Native_75Hz.md) | [160.29°](images/PimaxVision8KX_Large_Native_75Hz_top.dmx.png) | [102.70°](images/PimaxVision8KX_Large_Native_75Hz_left.dmx.png) | [153.42°](images/PimaxVision8KX_Large_Native_75Hz_over.dmx.png) | [82.89°](images/PimaxVision8KX_Large_Native_75Hz_top.dmx.png) | [8.73%](images/PimaxVision8KX_Large_Native_75Hz_back.dmx.png) | -10.0° | 10.0°
+Pimax Vision 8K X | [Large+PP+75Hz](hmd_cfgs/PimaxVision8KX_Large_PP_75Hz.md) | [160.29°](images/PimaxVision8KX_Large_PP_75Hz_top.dmx.png) | ([94.30°](images/PimaxVision8KX_Large_PP_75Hz_left.dmx.png)) | [157.02°](images/PimaxVision8KX_Large_PP_75Hz_over.dmx.png) | [82.95°](images/PimaxVision8KX_Large_PP_75Hz_top.dmx.png) | [19.11%](images/PimaxVision8KX_Large_PP_75Hz_back.dmx.png) |  | 
+Pimax Vision 8K X | [Normal+Native+75Hz](hmd_cfgs/PimaxVision8KX_Normal_Native_75Hz.md) | [140.29°](images/PimaxVision8KX_Normal_Native_75Hz_top.dmx.png) | [102.70°](images/PimaxVision8KX_Normal_Native_75Hz_left.dmx.png) | [134.74°](images/PimaxVision8KX_Normal_Native_75Hz_over.dmx.png) | [82.95°](images/PimaxVision8KX_Normal_Native_75Hz_top.dmx.png) | [8.73%](images/PimaxVision8KX_Normal_Native_75Hz_back.dmx.png) | -10.0° | 10.0°
+Pimax Vision 8K X | [Normal+PP+75Hz](hmd_cfgs/PimaxVision8KX_Normal_PP_75Hz.md) | [140.29°](images/PimaxVision8KX_Normal_PP_75Hz_top.dmx.png) | ([99.98°](images/PimaxVision8KX_Normal_PP_75Hz_left.dmx.png)) | [137.70°](images/PimaxVision8KX_Normal_PP_75Hz_over.dmx.png) | [82.95°](images/PimaxVision8KX_Normal_PP_75Hz_top.dmx.png) | [19.11%](images/PimaxVision8KX_Normal_PP_75Hz_back.dmx.png) |  | 
+Pimax Vision 8K X | [Small+Native+75Hz](hmd_cfgs/PimaxVision8KX_Small_Native_75Hz.md) | [120.29°](images/PimaxVision8KX_Small_Native_75Hz_top.dmx.png) | [102.70°](images/PimaxVision8KX_Small_Native_75Hz_left.dmx.png) | [120.20°](images/PimaxVision8KX_Small_Native_75Hz_over.dmx.png) | [82.95°](images/PimaxVision8KX_Small_Native_75Hz_top.dmx.png) | [8.73%](images/PimaxVision8KX_Small_Native_75Hz_back.dmx.png) | -10.0° | 10.0°
+Pimax Vision 8K X | [Small+PP+75Hz](hmd_cfgs/PimaxVision8KX_Small_PP_75Hz.md) | [120.29°](images/PimaxVision8KX_Small_PP_75Hz_top.dmx.png) | ([104.83°](images/PimaxVision8KX_Small_PP_75Hz_left.dmx.png)) | [123.86°](images/PimaxVision8KX_Small_PP_75Hz_over.dmx.png) | [82.95°](images/PimaxVision8KX_Small_PP_75Hz_top.dmx.png) | [19.11%](images/PimaxVision8KX_Small_PP_75Hz_back.dmx.png) |  | 
+Pimax Vision 8K X | [Tiny+Native+75Hz](hmd_cfgs/PimaxVision8KX_Tiny_Native_75Hz.md) | [100.29°](images/PimaxVision8KX_Tiny_Native_75Hz_top.dmx.png) | [102.70°](images/PimaxVision8KX_Tiny_Native_75Hz_left.dmx.png) | [108.96°](images/PimaxVision8KX_Tiny_Native_75Hz_over.dmx.png) | [82.95°](images/PimaxVision8KX_Tiny_Native_75Hz_top.dmx.png) | [8.73%](images/PimaxVision8KX_Tiny_Native_75Hz_back.dmx.png) | -10.0° | 10.0°
+Pimax Vision 8K X | [Tiny+PP+75Hz](hmd_cfgs/PimaxVision8KX_Tiny_PP_75Hz.md) | [100.29°](images/PimaxVision8KX_Tiny_PP_75Hz_top.dmx.png) | ([109.25°](images/PimaxVision8KX_Tiny_PP_75Hz_left.dmx.png)) | [114.41°](images/PimaxVision8KX_Tiny_PP_75Hz_over.dmx.png) | [82.95°](images/PimaxVision8KX_Tiny_PP_75Hz_top.dmx.png) | [19.11%](images/PimaxVision8KX_Tiny_PP_75Hz_back.dmx.png) |  | 
 Valve Index | [Native+144Hz](hmd_cfgs/Index_Native_144Hz.md) | [108.06°](images/Index_Native_144Hz_top.dmx.png) | [109.16°](images/Index_Native_144Hz_left.dmx.png) | [114.43°](images/Index_Native_144Hz_over.dmx.png) | [85.93°](images/Index_Native_144Hz_top.dmx.png) | [24.88%](images/Index_Native_144Hz_back.dmx.png) | -5.0° | 5.0°
 Valve Index | [PP+144Hz](hmd_cfgs/Index_PP_144Hz.md) | [109.26°](images/Index_PP_144Hz_top.dmx.png) | ([108.47°](images/Index_PP_144Hz_left.dmx.png)) | [114.19°](images/Index_PP_144Hz_over.dmx.png) | [84.13°](images/Index_PP_144Hz_top.dmx.png) | [24.88%](images/Index_PP_144Hz_back.dmx.png) |  | 
 
@@ -100,5 +108,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2020-06-07 19:04:44  
-The table was generated: 2020-06-07 19:51:45
+The latest headset data recorded: 2020-07-18 23:48:03  
+The table was generated: 2020-07-18 22:08:48
