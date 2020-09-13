@@ -3,6 +3,9 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*September 13, 2020*
+* StarVR One (added)
+
 *July 20, 2020*
 * Pimax Vision 8k-X (added)
 

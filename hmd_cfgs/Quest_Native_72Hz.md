@@ -8,7 +8,7 @@ date: 2020-04-13 16:57:38
 
 as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq).
 ```
-hmdv version 2.0.0 - displaying hmdq output data in no time
+hmdv version 2.1.0 - displaying hmdq output data in no time
 
     Time stamp: 2020-04-13 16:57:38
   hmdq version: 1.3.4
@@ -24,6 +24,7 @@ Default FOV:
     Recommended render target size: [1808, 2000]
 
     Left eye HAM mesh:
+         original vertices: 52, triangles: 52
         optimized vertices: 52, n-gons: 2
                  mesh area: 5.69 %
 
@@ -42,7 +43,7 @@ Default FOV:
         distorted viewport: [[0, 0], [1264, 1408]]
         pixels per tan:     [827.77, 829.87]
         HMD to eye pose:
-            position:    [-0.03175, 0.0000, 0.0000]
+            position:    [-0.031750, 0.0000, 0.0000]
             orientation: [0.0, 0.0, 0.0, 1.0]
 
     Left eye head FOV:
@@ -54,6 +55,7 @@ Default FOV:
         vert.:      100.00 deg
 
     Right eye HAM mesh:
+         original vertices: 52, triangles: 52
         optimized vertices: 52, n-gons: 2
                  mesh area: 5.69 %
 
@@ -72,7 +74,7 @@ Default FOV:
         distorted viewport: [[1264, 0], [1264, 1408]]
         pixels per tan:     [827.77, 829.87]
         HMD to eye pose:
-            position:    [0.03175, 0.0000, 0.0000]
+            position:    [0.031750, 0.0000, 0.0000]
             orientation: [0.0, 0.0, 0.0, 1.0]
 
     Right eye head FOV:

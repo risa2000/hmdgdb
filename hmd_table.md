@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2020-07-18 22:08:48
+date: 2020-09-13 15:51:34
 permalink: /
 ---
 # HMD Geometry Database
@@ -69,6 +69,8 @@ Pimax Vision 8K X | [Small+Native+75Hz](hmd_cfgs/PimaxVision8KX_Small_Native_75H
 Pimax Vision 8K X | [Small+PP+75Hz](hmd_cfgs/PimaxVision8KX_Small_PP_75Hz.md) | [120.29°](images/PimaxVision8KX_Small_PP_75Hz_top.dmx.png) | ([104.83°](images/PimaxVision8KX_Small_PP_75Hz_left.dmx.png)) | [123.86°](images/PimaxVision8KX_Small_PP_75Hz_over.dmx.png) | [82.95°](images/PimaxVision8KX_Small_PP_75Hz_top.dmx.png) | [19.11%](images/PimaxVision8KX_Small_PP_75Hz_back.dmx.png) |  | 
 Pimax Vision 8K X | [Tiny+Native+75Hz](hmd_cfgs/PimaxVision8KX_Tiny_Native_75Hz.md) | [100.29°](images/PimaxVision8KX_Tiny_Native_75Hz_top.dmx.png) | [102.70°](images/PimaxVision8KX_Tiny_Native_75Hz_left.dmx.png) | [108.96°](images/PimaxVision8KX_Tiny_Native_75Hz_over.dmx.png) | [82.95°](images/PimaxVision8KX_Tiny_Native_75Hz_top.dmx.png) | [8.73%](images/PimaxVision8KX_Tiny_Native_75Hz_back.dmx.png) | -10.0° | 10.0°
 Pimax Vision 8K X | [Tiny+PP+75Hz](hmd_cfgs/PimaxVision8KX_Tiny_PP_75Hz.md) | [100.29°](images/PimaxVision8KX_Tiny_PP_75Hz_top.dmx.png) | ([109.25°](images/PimaxVision8KX_Tiny_PP_75Hz_left.dmx.png)) | [114.41°](images/PimaxVision8KX_Tiny_PP_75Hz_over.dmx.png) | [82.95°](images/PimaxVision8KX_Tiny_PP_75Hz_top.dmx.png) | [19.11%](images/PimaxVision8KX_Tiny_PP_75Hz_back.dmx.png) |  | 
+StarVR One | [Compatible+Native+90Hz](hmd_cfgs/StarVROne_Compatible_Native_90Hz.md) | [107.22°](images/StarVROne_Compatible_Native_90Hz_top.dmx.png) | [107.22°](images/StarVROne_Compatible_Native_90Hz_left.dmx.png) | [107.22°](images/StarVROne_Compatible_Native_90Hz_over.dmx.png) | [107.22°](images/StarVROne_Compatible_Native_90Hz_top.dmx.png) | [29.57%](images/StarVROne_Compatible_Native_90Hz_back.dmx.png) |  | 
+StarVR One | [Normal+Native+90Hz](hmd_cfgs/StarVROne_Normal_Native_90Hz.md) | [177.55°](images/StarVROne_Normal_Native_90Hz_top.dmx.png) | [117.45°](images/StarVROne_Normal_Native_90Hz_left.dmx.png) | [176.68°](images/StarVROne_Normal_Native_90Hz_over.dmx.png) | [80.65°](images/StarVROne_Normal_Native_90Hz_top.dmx.png) | [28.19%](images/StarVROne_Normal_Native_90Hz_back.dmx.png) | -24.2° | 24.2°
 Valve Index | [Native+144Hz](hmd_cfgs/Index_Native_144Hz.md) | [108.06°](images/Index_Native_144Hz_top.dmx.png) | [109.16°](images/Index_Native_144Hz_left.dmx.png) | [114.43°](images/Index_Native_144Hz_over.dmx.png) | [85.93°](images/Index_Native_144Hz_top.dmx.png) | [24.88%](images/Index_Native_144Hz_back.dmx.png) | -5.0° | 5.0°
 Valve Index | [PP+144Hz](hmd_cfgs/Index_PP_144Hz.md) | [109.26°](images/Index_PP_144Hz_top.dmx.png) | ([108.47°](images/Index_PP_144Hz_left.dmx.png)) | [114.19°](images/Index_PP_144Hz_over.dmx.png) | [84.13°](images/Index_PP_144Hz_top.dmx.png) | [24.88%](images/Index_PP_144Hz_back.dmx.png) |  | 
 
@@ -109,4 +111,4 @@ panels are (most likely) coplanar and parallel to the face.
 ---
 
 The latest headset data recorded: 2020-07-18 23:48:03  
-The table was generated: 2020-07-18 22:08:48
+The table was generated: 2020-09-13 15:51:34
