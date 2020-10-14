@@ -3,6 +3,11 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+
+*October 15, 2020*
+* Oculus Quest 2 (added)
+* Oculus Quest 1 (updated)
+
 *September 13, 2020*
 * StarVR One (added)
 

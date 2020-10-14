@@ -1,6 +1,6 @@
 ---
 title: Oculus Quest (72Hz)
-date: 2020-04-13 16:57:38
+date: 2020-10-14 23:02:46
 ---
 # Oculus Quest (72Hz)
 
@@ -8,16 +8,16 @@ date: 2020-04-13 16:57:38
 
 as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq).
 ```
-hmdv version 2.1.0 - displaying hmdq output data in no time
+hmdv version 2.1.1 - displaying hmdq output data in no time
 
-    Time stamp: 2020-04-13 16:57:38
-  hmdq version: 1.3.4
+    Time stamp: 2020-10-14 23:02:46
+  hmdq version: 2.1.1
 Output version: 5
-    OS version: 10.0.18362.720
+    OS version: 10.0.19041.572
 
 ... Subsystem: Oculus ...
 
-Oculus runtime version: 1.47.0
+Oculus runtime version: 1.53.0
 
 Default FOV:
 
