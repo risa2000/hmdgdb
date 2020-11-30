@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2020-10-14 23:19:12
+date: 2020-11-30 01:56:04
 permalink: /
 ---
 # HMD Geometry Database
@@ -19,6 +19,7 @@ see
 
 Model | Config | FOV hor. | FOV ver. | FOV diag. | Overlap | HAM | Rot LE | Rot RE
 --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---:
+HP Reverb G2 | [Native+90Hz](hmd_cfgs/ReverbG2_Native_90Hz.md) | [98.85°](images/ReverbG2_Native_90Hz_top.dmx.png) | [90.85°](images/ReverbG2_Native_90Hz_left.dmx.png) | [107.52°](images/ReverbG2_Native_90Hz_over.dmx.png) | [84.31°](images/ReverbG2_Native_90Hz_top.dmx.png) | [16.51%](images/ReverbG2_Native_90Hz_back.dmx.png) | 0.2° | -0.2°
 HP Reverb | [Native+90Hz](hmd_cfgs/Reverb_Native_90Hz.md) | [95.76°](images/Reverb_Native_90Hz_top.dmx.png) | [90.43°](images/Reverb_Native_90Hz_left.dmx.png) | [111.78°](images/Reverb_Native_90Hz_over.dmx.png) | [86.99°](images/Reverb_Native_90Hz_top.dmx.png) | [0.04%](images/Reverb_Native_90Hz_back.dmx.png) | 0.2° | -0.2°
 HTC Vive Elite | [Native+90Hz](hmd_cfgs/ViveElite_Native_90Hz.md) | [97.24°](images/ViveElite_Native_90Hz_top.dmx.png) | [103.01°](images/ViveElite_Native_90Hz_left.dmx.png) | [118.89°](images/ViveElite_Native_90Hz_over.dmx.png) | [89.72°](images/ViveElite_Native_90Hz_top.dmx.png) |  |  | 
 HTC Vive Pro | [Native+90Hz](hmd_cfgs/VivePro_Native_90Hz.md) | [107.06°](images/VivePro_Native_90Hz_top.dmx.png) | [107.71°](images/VivePro_Native_90Hz_left.dmx.png) | [110.48°](images/VivePro_Native_90Hz_over.dmx.png) | [90.46°](images/VivePro_Native_90Hz_top.dmx.png) | [20.20%](images/VivePro_Native_90Hz_back.dmx.png) |  | 
@@ -111,5 +112,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2020-10-14 23:02:46  
-The table was generated: 2020-10-14 23:19:12
+The latest headset data recorded: 2020-11-29 13:24:15  
+The table was generated: 2020-11-30 01:56:04
