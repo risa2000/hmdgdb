@@ -4,6 +4,9 @@ title: Changelog
 
 # HMD Geometry Database Changelog
 
+*January 27, 2021*
+* Pico Neo 2 (added)
+
 *November 30, 2020*
 * HP Reverb G2 (added)
 

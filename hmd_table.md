@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2020-11-30 01:56:04
+date: 2021-01-27 21:45:43
 permalink: /
 ---
 # HMD Geometry Database
@@ -27,6 +27,7 @@ HTC Vive | [Native+90Hz](hmd_cfgs/Vive_Native_90Hz.md) | [108.77°](images/Vive_
 Oculus Rift CV1 | [Native+90Hz](hmd_cfgs/OculusRiftCV1_Native_90Hz.md) | [87.95°](images/OculusRiftCV1_Native_90Hz_top.dmx.png) | [89.66°](images/OculusRiftCV1_Native_90Hz_left.dmx.png) | [98.07°](images/OculusRiftCV1_Native_90Hz_over.dmx.png) | [71.15°](images/OculusRiftCV1_Native_90Hz_top.dmx.png) | [14.07%](images/OculusRiftCV1_Native_90Hz_back.dmx.png) |  | 
 Oculus Quest 2 | [Native+72Hz](hmd_cfgs/Quest2_Native_72Hz.md) | [104.00°](images/Quest2_Native_72Hz_top.dmx.png) | [98.00°](images/Quest2_Native_72Hz_left.dmx.png) | [113.46°](images/Quest2_Native_72Hz_over.dmx.png) | [90.00°](images/Quest2_Native_72Hz_top.dmx.png) | [9.13%](images/Quest2_Native_72Hz_back.dmx.png) |  | 
 Oculus Quest | [Native+72Hz](hmd_cfgs/Quest_Native_72Hz.md) | [104.00°](images/Quest_Native_72Hz_top.dmx.png) | [100.00°](images/Quest_Native_72Hz_left.dmx.png) | [115.52°](images/Quest_Native_72Hz_over.dmx.png) | [84.00°](images/Quest_Native_72Hz_top.dmx.png) | [5.69%](images/Quest_Native_72Hz_back.dmx.png) |  | 
+Pico Neo2 | [Native+72Hz](hmd_cfgs/PicoNeo2_Native_72Hz.md) | [101.00°](images/PicoNeo2_Native_72Hz_top.dmx.png) | [101.00°](images/PicoNeo2_Native_72Hz_left.dmx.png) | [119.52°](images/PicoNeo2_Native_72Hz_over.dmx.png) | [101.00°](images/PicoNeo2_Native_72Hz_top.dmx.png) |  |  | 
 Pimax 5K Plus | [Large+Native+90Hz](hmd_cfgs/Pimax5KPlus_Large_Native_90Hz.md) | [160.29°](images/Pimax5KPlus_Large_Native_90Hz_top.dmx.png) | [102.70°](images/Pimax5KPlus_Large_Native_90Hz_left.dmx.png) | [158.04°](images/Pimax5KPlus_Large_Native_90Hz_over.dmx.png) | [86.79°](images/Pimax5KPlus_Large_Native_90Hz_top.dmx.png) | [3.49%](images/Pimax5KPlus_Large_Native_90Hz_back.dmx.png) | -10.0° | 10.0°
 Pimax 5K Plus | [Large+PP+90Hz](hmd_cfgs/Pimax5KPlus_Large_PP_90Hz.md) | [160.29°](images/Pimax5KPlus_Large_PP_90Hz_top.dmx.png) | ([114.57°](images/Pimax5KPlus_Large_PP_90Hz_left.dmx.png)) | [160.99°](images/Pimax5KPlus_Large_PP_90Hz_over.dmx.png) | [86.79°](images/Pimax5KPlus_Large_PP_90Hz_top.dmx.png) | [1.75%](images/Pimax5KPlus_Large_PP_90Hz_back.dmx.png) |  | 
 Pimax 5K Plus | [Normal+Native+90Hz](hmd_cfgs/Pimax5KPlus_Normal_Native_90Hz.md) | [140.29°](images/Pimax5KPlus_Normal_Native_90Hz_top.dmx.png) | [102.70°](images/Pimax5KPlus_Normal_Native_90Hz_left.dmx.png) | [134.52°](images/Pimax5KPlus_Normal_Native_90Hz_over.dmx.png) | [86.79°](images/Pimax5KPlus_Normal_Native_90Hz_top.dmx.png) | [8.73%](images/Pimax5KPlus_Normal_Native_90Hz_back.dmx.png) | -10.0° | 10.0°
@@ -112,5 +113,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2020-11-29 13:24:15  
-The table was generated: 2020-11-30 01:56:04
+The latest headset data recorded: 2021-01-26 18:40:46  
+The table was generated: 2021-01-27 21:45:43
