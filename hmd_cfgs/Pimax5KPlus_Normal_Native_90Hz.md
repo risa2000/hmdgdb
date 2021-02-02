@@ -1,6 +1,6 @@
 ---
 title: Pimax 5K Plus (Normal FOV) (90Hz)
-date: 2019-09-20 13:17:25
+date: 2021-02-01 23:11:22
 ---
 # Pimax 5K Plus (Normal FOV) (90Hz)
 
@@ -10,16 +10,16 @@ as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq
 ```
 hmdv version 2.1.1 - displaying hmdq output data in no time
 
-    Time stamp: 2019-09-20 13:17:25
-  hmdq version: 1.3.1
-Output version: 4
-    OS version: 10.0.18362.356
+    Time stamp: 2021-02-01 23:11:22
+  hmdq version: 2.1.1
+Output version: 5
+    OS version: 10.0.19041.746
 
 ... Subsystem: OpenVR ...
 
-OpenVR runtime version: 1.7.15
+OpenVR runtime version: 1.15.19
 
-Recommended render target size: [3200, 2632]
+Recommended render target size: [2560, 2104]
 
 Left eye HAM mesh:
      original vertices: 120, triangles: 40
@@ -27,7 +27,7 @@ Left eye HAM mesh:
              mesh area: 8.73 %
 
 Left eye to head transformation matrix:
-    [[ 0.984808,  0.      ,  0.173648, -0.03502 ],
+    [[ 0.984808,  0.      ,  0.173648, -0.035   ],
      [ 0.      ,  1.      ,  0.      ,  0.      ],
      [-0.173648,  0.      ,  0.984808,  0.      ]]
 
@@ -59,7 +59,7 @@ Right eye HAM mesh:
              mesh area: 8.73 %
 
 Right eye to head transformation matrix:
-    [[ 0.984808, -0.      , -0.173648,  0.03502 ],
+    [[ 0.984808, -0.      , -0.173648,  0.035   ],
      [ 0.      ,  1.      , -0.      ,  0.      ],
      [ 0.173648,  0.      ,  0.984808,  0.      ]]
 

@@ -4,6 +4,9 @@ title: Changelog
 
 # HMD Geometry Database Changelog
 
+*February 2, 2021*
+* Pimax 5k+ (updated)
+
 *January 27, 2021*
 * Pico Neo 2 (added)
 

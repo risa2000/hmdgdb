@@ -1,6 +1,6 @@
 ---
 title: Pimax 5K Plus (Normal FOV, Parallel Projection ON) (90Hz)
-date: 2019-09-20 13:31:55
+date: 2021-02-01 23:06:07
 ---
 # Pimax 5K Plus (Normal FOV, Parallel Projection ON) (90Hz)
 
@@ -10,24 +10,24 @@ as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq
 ```
 hmdv version 2.1.1 - displaying hmdq output data in no time
 
-    Time stamp: 2019-09-20 13:31:55
-  hmdq version: 1.3.1
-Output version: 4
-    OS version: 10.0.18362.356
+    Time stamp: 2021-02-01 23:06:07
+  hmdq version: 2.1.1
+Output version: 5
+    OS version: 10.0.19041.746
 
 ... Subsystem: OpenVR ...
 
-OpenVR runtime version: 1.7.15
+OpenVR runtime version: 1.15.19
 
-Recommended render target size: [3852, 3288]
+Recommended render target size: [3080, 2632]
 
 Left eye HAM mesh:
      original vertices: 120, triangles: 40
     optimized vertices: 48, n-gons: 4
-             mesh area: 8.73 %
+             mesh area: 19.11 %
 
 Left eye to head transformation matrix:
-    [[ 1.      ,  0.      ,  0.      , -0.03502 ],
+    [[ 1.      ,  0.      ,  0.      , -0.035   ],
      [ 0.      ,  1.      ,  0.      ,  0.      ],
      [ 0.      ,  0.      ,  1.      ,  0.      ]]
 
@@ -40,18 +40,18 @@ Left eye raw LRBT values:
 Left eye head FOV:
     left:       -70.14 deg
     right:       43.39 deg
-    bottom:     -57.78 deg
-    top:         57.78 deg
+    bottom:     -50.31 deg
+    top:         50.31 deg
     horiz.:     113.54 deg
-    vert.:      115.56 deg
+    vert.:      100.63 deg
 
 Right eye HAM mesh:
      original vertices: 120, triangles: 40
     optimized vertices: 48, n-gons: 4
-             mesh area: 8.73 %
+             mesh area: 19.11 %
 
 Right eye to head transformation matrix:
-    [[ 1.      ,  0.      ,  0.      ,  0.03502 ],
+    [[ 1.      ,  0.      ,  0.      ,  0.035   ],
      [ 0.      ,  1.      ,  0.      ,  0.      ],
      [ 0.      ,  0.      ,  1.      ,  0.      ]]
 
@@ -64,14 +64,14 @@ Right eye raw LRBT values:
 Right eye head FOV:
     left:       -43.39 deg
     right:       70.14 deg
-    bottom:     -57.78 deg
-    top:         57.78 deg
+    bottom:     -50.31 deg
+    top:         50.31 deg
     horiz.:     113.54 deg
-    vert.:      115.56 deg
+    vert.:      100.63 deg
 
 Total FOV:
     horizontal: 140.29 deg
-    vertical:   115.56 deg
+    vertical:   100.63 deg
     diagonal:   137.62 deg
     overlap:     86.79 deg
 
