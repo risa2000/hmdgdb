@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2021-02-02 01:06:36
+date: 2021-03-26 15:31:55
 permalink: /
 ---
 # HMD Geometry Database
@@ -21,7 +21,7 @@ Model | Config | FOV hor. | FOV ver. | FOV diag. | Overlap | HAM | Rot LE | Rot 
 --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---:
 HP Reverb G2 | [Native+90Hz](hmd_cfgs/ReverbG2_Native_90Hz.md) | [98.85°](images/ReverbG2_Native_90Hz_top.dmx.png) | [90.85°](images/ReverbG2_Native_90Hz_left.dmx.png) | [107.52°](images/ReverbG2_Native_90Hz_over.dmx.png) | [84.31°](images/ReverbG2_Native_90Hz_top.dmx.png) | [16.51%](images/ReverbG2_Native_90Hz_back.dmx.png) | 0.2° | -0.2°
 HP Reverb | [Native+90Hz](hmd_cfgs/Reverb_Native_90Hz.md) | [95.76°](images/Reverb_Native_90Hz_top.dmx.png) | [90.43°](images/Reverb_Native_90Hz_left.dmx.png) | [111.78°](images/Reverb_Native_90Hz_over.dmx.png) | [86.99°](images/Reverb_Native_90Hz_top.dmx.png) | [0.04%](images/Reverb_Native_90Hz_back.dmx.png) | 0.2° | -0.2°
-HTC Vive Elite | [Native+90Hz](hmd_cfgs/ViveElite_Native_90Hz.md) | [97.24°](images/ViveElite_Native_90Hz_top.dmx.png) | [103.01°](images/ViveElite_Native_90Hz_left.dmx.png) | [118.89°](images/ViveElite_Native_90Hz_over.dmx.png) | [89.72°](images/ViveElite_Native_90Hz_top.dmx.png) |  |  | 
+HTC Vive Elite | [Native+90Hz](hmd_cfgs/ViveElite_Native_90Hz.md) | [97.62°](images/ViveElite_Native_90Hz_top.dmx.png) | [103.03°](images/ViveElite_Native_90Hz_left.dmx.png) | [109.31°](images/ViveElite_Native_90Hz_over.dmx.png) | [79.57°](images/ViveElite_Native_90Hz_top.dmx.png) | [9.14%](images/ViveElite_Native_90Hz_back.dmx.png) |  | 
 HTC Vive Pro | [Native+90Hz](hmd_cfgs/VivePro_Native_90Hz.md) | [107.06°](images/VivePro_Native_90Hz_top.dmx.png) | [107.71°](images/VivePro_Native_90Hz_left.dmx.png) | [110.48°](images/VivePro_Native_90Hz_over.dmx.png) | [90.46°](images/VivePro_Native_90Hz_top.dmx.png) | [20.20%](images/VivePro_Native_90Hz_back.dmx.png) |  | 
 HTC Vive | [Native+90Hz](hmd_cfgs/Vive_Native_90Hz.md) | [108.77°](images/Vive_Native_90Hz_top.dmx.png) | [111.53°](images/Vive_Native_90Hz_left.dmx.png) | [113.18°](images/Vive_Native_90Hz_over.dmx.png) | [93.45°](images/Vive_Native_90Hz_top.dmx.png) | [19.10%](images/Vive_Native_90Hz_back.dmx.png) |  | 
 Oculus Rift CV1 | [Native+90Hz](hmd_cfgs/OculusRiftCV1_Native_90Hz.md) | [87.95°](images/OculusRiftCV1_Native_90Hz_top.dmx.png) | [89.66°](images/OculusRiftCV1_Native_90Hz_left.dmx.png) | [98.07°](images/OculusRiftCV1_Native_90Hz_over.dmx.png) | [71.15°](images/OculusRiftCV1_Native_90Hz_top.dmx.png) | [14.07%](images/OculusRiftCV1_Native_90Hz_back.dmx.png) |  | 
@@ -123,5 +123,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2021-02-01 23:20:16  
-The table was generated: 2021-02-02 01:06:36
+The latest headset data recorded: 2021-03-26 14:41:15  
+The table was generated: 2021-03-26 15:31:55

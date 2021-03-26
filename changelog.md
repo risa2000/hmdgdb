@@ -4,6 +4,9 @@ title: Changelog
 
 # HMD Geometry Database Changelog
 
+*March 26, 2021*
+* HTC Vive Elite (added HAM)
+
 *February 2, 2021*
 * Pimax 5k+ (updated)
 

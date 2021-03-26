@@ -1,6 +1,6 @@
 ---
 title: HTC Vive Elite (90Hz)
-date: 2020-05-12 14:38:12
+date: 2021-03-26 14:41:15
 ---
 # HTC Vive Elite (90Hz)
 
@@ -10,75 +10,79 @@ as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq
 ```
 hmdv version 2.1.1 - displaying hmdq output data in no time
 
-    Time stamp: 2020-05-12 14:38:12
-  hmdq version: 2.0.1
+    Time stamp: 2021-03-26 14:41:15
+  hmdq version: 2.1.1
 Output version: 5
-    OS version: 10.0.18362.778
+    OS version: 10.0.19041.685
 
 ... Subsystem: OpenVR ...
 
-OpenVR runtime version: 1.11.11
+OpenVR runtime version: 1.17.2
 
-Recommended render target size: [2016, 2380]
+Recommended render target size: [1912, 2256]
 
 Left eye HAM mesh:
-    No mesh defined by the headset
+     original vertices: 36, triangles: 12
+    optimized vertices: 20, n-gons: 5
+             mesh area: 8.73 %
 
 Left eye to head transformation matrix:
-    [[ 1.      ,  0.      ,  0.      , -0.03335 ],
+    [[ 1.      ,  0.      ,  0.      , -0.03385 ],
      [ 0.      ,  1.      ,  0.      ,  0.      ],
      [ 0.      ,  0.      ,  1.      ,  0.015   ]]
 
 Left eye raw LRBT values:
-    left:        -1.139637
-    right:        0.990179
-    bottom:      -1.267859
-    top:          1.246508
+    left:        -1.139201
+    right:        0.993099
+    bottom:      -1.254701
+    top:          1.262598
 
 Left eye head FOV:
-    left:       -48.73 deg
-    right:       44.72 deg
-    bottom:     -51.74 deg
-    top:         51.26 deg
-    horiz.:      93.45 deg
-    vert.:      103.00 deg
+    left:       -48.72 deg
+    right:       40.14 deg
+    bottom:     -51.45 deg
+    top:         51.62 deg
+    horiz.:      88.86 deg
+    vert.:      103.07 deg
 
 Right eye HAM mesh:
-    No mesh defined by the headset
+     original vertices: 36, triangles: 12
+    optimized vertices: 20, n-gons: 5
+             mesh area: 9.54 %
 
 Right eye to head transformation matrix:
-    [[ 1.      ,  0.      ,  0.      ,  0.03335 ],
+    [[ 1.      ,  0.      ,  0.      ,  0.03385 ],
      [ 0.      ,  1.      ,  0.      ,  0.      ],
      [ 0.      ,  0.      ,  1.      ,  0.015   ]]
 
 Right eye raw LRBT values:
-    left:        -0.999962
-    right:        1.130730
-    bottom:      -1.260628
-    top:          1.254772
+    left:        -0.983385
+    right:        1.146312
+    bottom:      -1.253234
+    top:          1.260992
 
 Right eye head FOV:
-    left:       -45.00 deg
-    right:       48.51 deg
-    bottom:     -51.58 deg
-    top:         51.45 deg
-    horiz.:      93.51 deg
-    vert.:      103.02 deg
+    left:       -39.44 deg
+    right:       48.90 deg
+    bottom:     -51.41 deg
+    top:         51.58 deg
+    horiz.:      88.34 deg
+    vert.:      103.00 deg
 
 Total FOV:
-    horizontal:  97.24 deg
-    vertical:   103.01 deg
-    diagonal:   118.89 deg
-    overlap:     89.72 deg
+    horizontal:  97.62 deg
+    vertical:   103.03 deg
+    diagonal:   109.31 deg
+    overlap:     79.57 deg
 
 View geometry:
     left view rotation:     0.0 deg
     right view rotation:    0.0 deg
-    reported IPD:          66.7 mm
+    reported IPD:          67.7 mm
 
 
 ```
-Recorded and contributed by _vrgamerdude_.
+Recorded and contributed by _knob2001_.
 
 ## Rendered FOV visualizations
 
