@@ -4,6 +4,10 @@ title: Changelog
 
 # HMD Geometry Database Changelog
 
+*April 5, 2021*
+* Pimax Artisan (added)
+* Pimax 8k+ (removed non-distinct configurations)
+
 *March 26, 2021*
 * HTC Vive Elite (added HAM)
 
