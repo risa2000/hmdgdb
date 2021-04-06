@@ -103,7 +103,7 @@ An example are Pimax headsets, which allow a user to choose a different view
 geometry (native or parallel projection modes, different horizontal FOVs).
 
 Because there is quite a lot of different combinations for Pimax headsets, some
-configurations are omitted (typically refresh rates, which do have the
+configurations are omitted (typically refresh rates, which do have the same
 geometry). When this happens you just should go by the closest config, which is
 in the table.
 
