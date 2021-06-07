@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2021-04-05 14:50:52
+date: 2021-06-07 21:47:38
 permalink: /
 ---
 # HMD Geometry Database
@@ -21,6 +21,8 @@ Model | Config | FOV hor. | FOV ver. | FOV diag. | Overlap | HAM | Rot LE | Rot 
 --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---:
 HP Reverb G2 | [Native+R90](hmd_cfgs/ReverbG2_Native_R90.md) | [98.85°](images/ReverbG2_Native_R90_top.dmx.png) | [90.85°](images/ReverbG2_Native_R90_left.dmx.png) | [107.52°](images/ReverbG2_Native_R90_over.dmx.png) | [84.31°](images/ReverbG2_Native_R90_top.dmx.png) | [16.51%](images/ReverbG2_Native_R90_back.dmx.png) | 0.2° | -0.2°
 HP Reverb | [Native+R90](hmd_cfgs/Reverb_Native_R90.md) | [95.76°](images/Reverb_Native_R90_top.dmx.png) | [90.43°](images/Reverb_Native_R90_left.dmx.png) | [111.78°](images/Reverb_Native_R90_over.dmx.png) | [86.99°](images/Reverb_Native_R90_top.dmx.png) | [0.04%](images/Reverb_Native_R90_back.dmx.png) | 0.2° | -0.2°
+HTC VIVE Pro 2 | [Native+R120](hmd_cfgs/VIVEPro2_Native_R120.md) | [116.52°](images/VIVEPro2_Native_R120_top.dmx.png) | [96.49°](images/VIVEPro2_Native_R120_left.dmx.png) | [113.30°](images/VIVEPro2_Native_R120_over.dmx.png) | [79.83°](images/VIVEPro2_Native_R120_top.dmx.png) | [10.03%](images/VIVEPro2_Native_R120_back.dmx.png) |  | 
+HTC VIVE Pro 2 | [Native+R90](hmd_cfgs/VIVEPro2_Native_R90.md) | [116.52°](images/VIVEPro2_Native_R90_top.dmx.png) | [96.49°](images/VIVEPro2_Native_R90_left.dmx.png) | [113.30°](images/VIVEPro2_Native_R90_over.dmx.png) | [79.83°](images/VIVEPro2_Native_R90_top.dmx.png) | [10.03%](images/VIVEPro2_Native_R90_back.dmx.png) |  | 
 HTC Vive Elite | [Native+R90](hmd_cfgs/ViveElite_Native_R90.md) | [97.62°](images/ViveElite_Native_R90_top.dmx.png) | [103.03°](images/ViveElite_Native_R90_left.dmx.png) | [109.31°](images/ViveElite_Native_R90_over.dmx.png) | [79.57°](images/ViveElite_Native_R90_top.dmx.png) | [9.14%](images/ViveElite_Native_R90_back.dmx.png) |  | 
 HTC Vive Pro | [Native+R90](hmd_cfgs/VivePro_Native_R90.md) | [107.06°](images/VivePro_Native_R90_top.dmx.png) | [107.71°](images/VivePro_Native_R90_left.dmx.png) | [110.48°](images/VivePro_Native_R90_over.dmx.png) | [90.46°](images/VivePro_Native_R90_top.dmx.png) | [20.20%](images/VivePro_Native_R90_back.dmx.png) |  | 
 HTC Vive | [Native+R90](hmd_cfgs/Vive_Native_R90.md) | [108.77°](images/Vive_Native_R90_top.dmx.png) | [111.53°](images/Vive_Native_R90_left.dmx.png) | [113.18°](images/Vive_Native_R90_over.dmx.png) | [93.45°](images/Vive_Native_R90_top.dmx.png) | [19.10%](images/Vive_Native_R90_back.dmx.png) |  | 
@@ -132,5 +134,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2021-04-03 14:38:07  
-The table was generated: 2021-04-05 14:50:52
+The latest headset data recorded: 2021-06-07 00:57:56  
+The table was generated: 2021-06-07 21:47:38

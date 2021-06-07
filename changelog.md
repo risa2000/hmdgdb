@@ -4,6 +4,9 @@ title: Changelog
 
 # HMD Geometry Database Changelog
 
+*June 7, 2021*
+* HTC Vive Pro 2 (added)
+
 *April 5, 2021*
 * Pimax Artisan (added)
 * Pimax 8k+ (removed non-distinct configurations)
