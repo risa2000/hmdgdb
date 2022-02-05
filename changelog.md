@@ -4,6 +4,9 @@ title: Changelog
 
 # HMD Geometry Database Changelog
 
+*February 5, 2022*
+* Varjo Aero (added)
+
 *June 7, 2021*
 * HTC Vive Pro 2 (added)
 
