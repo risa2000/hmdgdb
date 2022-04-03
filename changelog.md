@@ -4,6 +4,9 @@ title: Changelog
 
 # HMD Geometry Database Changelog
 
+*April 3, 2022*
+* Varjo Aero (updated)
+
 *March 31, 2022*
 * Rerendered the visualization images with wrong camera setup.
 

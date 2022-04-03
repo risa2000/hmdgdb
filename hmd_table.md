@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2022-03-31 22:05:23
+date: 2022-04-03 18:29:22
 permalink: /
 ---
 # HMD Geometry Database
@@ -88,7 +88,7 @@ StarVR One | [Compatible+Native+R90](hmd_cfgs/StarVROne_Compatible_Native_R90.md
 StarVR One | [Normal+Native+R90](hmd_cfgs/StarVROne_Normal_Native_R90.md) | [177.55°](images/StarVROne_Normal_Native_R90_top.dmx.png) | [117.45°](images/StarVROne_Normal_Native_R90_left.dmx.png) | [176.68°](images/StarVROne_Normal_Native_R90_over.dmx.png) | [80.65°](images/StarVROne_Normal_Native_R90_top.dmx.png) | [28.19%](images/StarVROne_Normal_Native_R90_back.dmx.png) | -24.2° | 24.2°
 Valve Index | [Native+R144](hmd_cfgs/Index_Native_R144.md) | [108.06°](images/Index_Native_R144_top.dmx.png) | [109.16°](images/Index_Native_R144_left.dmx.png) | [114.43°](images/Index_Native_R144_over.dmx.png) | [85.93°](images/Index_Native_R144_top.dmx.png) | [24.88%](images/Index_Native_R144_back.dmx.png) | -5.0° | 5.0°
 Valve Index | [PP+R144](hmd_cfgs/Index_PP_R144.md) | [109.26°](images/Index_PP_R144_top.dmx.png) | ([108.47°](images/Index_PP_R144_left.dmx.png)) | [114.19°](images/Index_PP_R144_over.dmx.png) | [84.13°](images/Index_PP_R144_top.dmx.png) | [24.88%](images/Index_PP_R144_back.dmx.png) |  | 
-Varjo Aero | [Native+R90](hmd_cfgs/VarjoAero_Native_R90.md) | [97.43°](images/VarjoAero_Native_R90_top.dmx.png) | [80.69°](images/VarjoAero_Native_R90_left.dmx.png) | [111.48°](images/VarjoAero_Native_R90_over.dmx.png) | [69.35°](images/VarjoAero_Native_R90_top.dmx.png) | [5.83%](images/VarjoAero_Native_R90_back.dmx.png) |  | 
+Varjo Aero | [Native+R90](hmd_cfgs/VarjoAero_Native_R90.md) | [109.19°](images/VarjoAero_Native_R90_top.dmx.png) | [82.94°](images/VarjoAero_Native_R90_left.dmx.png) | [119.57°](images/VarjoAero_Native_R90_over.dmx.png) | [69.28°](images/VarjoAero_Native_R90_top.dmx.png) | [5.83%](images/VarjoAero_Native_R90_back.dmx.png) |  | 
 
 
 ---
@@ -135,5 +135,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2022-01-25 17:14:50  
-The table was generated: 2022-03-31 22:05:23
+The latest headset data recorded: 2022-04-03 14:53:37  
+The table was generated: 2022-04-03 18:29:22

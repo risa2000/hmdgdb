@@ -1,6 +1,6 @@
 ---
 title: Varjo Aero (90Hz)
-date: 2022-01-25 17:14:50
+date: 2022-04-03 14:53:37
 ---
 # Varjo Aero (90Hz)
 
@@ -10,16 +10,16 @@ as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq
 ```
 hmdv version 2.1.1 - displaying hmdq output data in no time
 
-    Time stamp: 2022-01-25 17:14:50
+    Time stamp: 2022-04-03 14:53:37
   hmdq version: 2.1.1
 Output version: 5
-    OS version: 10.0.19041.1466
+    OS version: 10.0.19041.1586
 
 ... Subsystem: OpenVR ...
 
-OpenVR runtime version: 1.20.4
+OpenVR runtime version: 1.21.12
 
-Recommended render target size: [3232, 2772]
+Recommended render target size: [4468, 3828]
 
 Left eye HAM mesh:
      original vertices: 522, triangles: 174
@@ -27,23 +27,23 @@ Left eye HAM mesh:
              mesh area: 5.83 %
 
 Left eye to head transformation matrix:
-    [[ 1.      ,  0.      ,  0.      , -0.034057],
+    [[ 1.      ,  0.      ,  0.      , -0.0315  ],
      [ 0.      ,  1.      ,  0.      ,  0.      ],
      [ 0.      ,  0.      ,  1.      ,  0.      ]]
 
 Left eye raw LRBT values:
-    left:        -1.232594
-    right:        0.701739
-    bottom:      -0.994570
-    top:          0.758960
+    left:        -1.533223
+    right:        0.700223
+    bottom:      -1.055011
+    top:          0.774363
 
 Left eye head FOV:
-    left:       -48.60 deg
-    right:       34.64 deg
-    bottom:     -43.57 deg
-    top:         37.14 deg
-    horiz.:      83.24 deg
-    vert.:       80.71 deg
+    left:       -54.84 deg
+    right:       34.52 deg
+    bottom:     -45.31 deg
+    top:         37.70 deg
+    horiz.:      89.36 deg
+    vert.:       83.00 deg
 
 Right eye HAM mesh:
      original vertices: 522, triangles: 174
@@ -51,34 +51,34 @@ Right eye HAM mesh:
              mesh area: 5.83 %
 
 Right eye to head transformation matrix:
-    [[ 1.      ,  0.      ,  0.      ,  0.034057],
+    [[ 1.      ,  0.      ,  0.      ,  0.0315  ],
      [ 0.      ,  1.      ,  0.      ,  0.      ],
      [ 0.      ,  0.      ,  1.      ,  0.      ]]
 
 Right eye raw LRBT values:
-    left:        -0.703773
-    right:        1.242206
-    bottom:      -0.994660
-    top:          0.757347
+    left:        -0.706611
+    right:        1.506615
+    bottom:      -1.052922
+    top:          0.772924
 
 Right eye head FOV:
-    left:       -34.72 deg
-    right:       48.83 deg
-    bottom:     -43.58 deg
-    top:         37.08 deg
-    horiz.:      83.54 deg
-    vert.:       80.66 deg
+    left:       -34.77 deg
+    right:       54.35 deg
+    bottom:     -45.24 deg
+    top:         37.64 deg
+    horiz.:      89.12 deg
+    vert.:       82.88 deg
 
 Total FOV:
-    horizontal:  97.43 deg
-    vertical:    80.69 deg
-    diagonal:   111.48 deg
-    overlap:     69.35 deg
+    horizontal: 109.19 deg
+    vertical:    82.94 deg
+    diagonal:   119.57 deg
+    overlap:     69.28 deg
 
 View geometry:
     left view rotation:     0.0 deg
     right view rotation:    0.0 deg
-    reported IPD:          68.1 mm
+    reported IPD:          63.0 mm
 
 
 ```
