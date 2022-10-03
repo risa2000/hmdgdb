@@ -3,6 +3,8 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*October 3, 2022*
+* Pico 4 (added)
 
 *April 3, 2022*
 * Varjo Aero (updated)
