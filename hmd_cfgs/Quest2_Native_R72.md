@@ -8,7 +8,7 @@ date: 2020-10-14 20:24:44
 
 as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq).
 ```
-hmdv version 2.1.1 - displaying hmdq output data in no time
+hmdv version 2.1.3 - displaying hmdq output data in no time
 
     Time stamp: 2020-10-14 20:24:44
   hmdq version: 2.1.1
@@ -44,7 +44,7 @@ Default FOV:
         pixels per tan:     [1029.04, 1026.28]
         HMD to eye pose:
             position:    [-0.031750, 0.0000, 0.0000]
-            orientation: [0.0, 0.0, 0.0, 1.0]
+            orientation: [0, 0, 0, 1]
 
     Left eye head FOV:
         left:       -52.00 deg
@@ -75,7 +75,7 @@ Default FOV:
         pixels per tan:     [1029.04, 1026.28]
         HMD to eye pose:
             position:    [0.031750, 0.0000, 0.0000]
-            orientation: [0.0, 0.0, 0.0, 1.0]
+            orientation: [0, 0, 0, 1]
 
     Right eye head FOV:
         left:       -45.00 deg

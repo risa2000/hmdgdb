@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2022-10-03 20:55:02
+date: 2022-10-20 20:54:29
 permalink: /
 ---
 # HMD Geometry Database
@@ -90,6 +90,7 @@ StarVR One | [Normal+Native+R90](hmd_cfgs/StarVROne_Normal_Native_R90.md) | [177
 Valve Index | [Native+R144](hmd_cfgs/Index_Native_R144.md) | [108.06°](images/Index_Native_R144_top.dmx.png) | [109.16°](images/Index_Native_R144_left.dmx.png) | [114.43°](images/Index_Native_R144_over.dmx.png) | [85.93°](images/Index_Native_R144_top.dmx.png) | [24.88%](images/Index_Native_R144_back.dmx.png) | -5.0° | 5.0°
 Valve Index | [PP+R144](hmd_cfgs/Index_PP_R144.md) | [109.26°](images/Index_PP_R144_top.dmx.png) | ([108.47°](images/Index_PP_R144_left.dmx.png)) | [114.19°](images/Index_PP_R144_over.dmx.png) | [84.13°](images/Index_PP_R144_top.dmx.png) | [24.88%](images/Index_PP_R144_back.dmx.png) |  | 
 Varjo Aero | [Native+R90](hmd_cfgs/VarjoAero_Native_R90.md) | [109.19°](images/VarjoAero_Native_R90_top.dmx.png) | [82.94°](images/VarjoAero_Native_R90_left.dmx.png) | [119.57°](images/VarjoAero_Native_R90_over.dmx.png) | [69.28°](images/VarjoAero_Native_R90_top.dmx.png) | [5.83%](images/VarjoAero_Native_R90_back.dmx.png) |  | 
+Varjo VR-2 | [Native+R60](hmd_cfgs/VarjoVR-2_Native_R60.md) | [89.30°](images/VarjoVR-2_Native_R60_top.dmx.png) | [89.30°](images/VarjoVR-2_Native_R60_left.dmx.png) | [92.42°](images/VarjoVR-2_Native_R60_over.dmx.png) | [71.64°](images/VarjoVR-2_Native_R60_top.dmx.png) | [17.84%](images/VarjoVR-2_Native_R60_back.dmx.png) |  | 
 
 
 ---
@@ -136,5 +137,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2022-10-03 19:32:53  
-The table was generated: 2022-10-03 20:55:02
+The latest headset data recorded: 2022-10-20 20:30:10  
+The table was generated: 2022-10-20 20:54:29

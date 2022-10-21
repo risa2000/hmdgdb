@@ -1,8 +1,8 @@
 ---
-title: Pimax Artisan (Small FOV, Parallel Projection ON, 90Hz, IPD:70mm)
-date: 2021-04-03 14:31:26
+title: Varjo VR-2 (60Hz)
+date: 2022-10-20 20:30:10
 ---
-# Pimax Artisan (Small FOV, Parallel Projection ON, 90Hz, IPD:70mm)
+# Varjo VR-2 (60Hz)
 
 ## Geometry
 
@@ -10,79 +10,79 @@ as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq
 ```
 hmdv version 2.1.3 - displaying hmdq output data in no time
 
-    Time stamp: 2021-04-03 14:31:26
-  hmdq version: 2.1.1
+    Time stamp: 2022-10-20 20:30:10
+  hmdq version: 2.1.3
 Output version: 5
-    OS version: 10.0.19041.867
+    OS version: 10.0.19041.2130
 
 ... Subsystem: OpenVR ...
 
-OpenVR runtime version: 1.16.10
+OpenVR runtime version: 1.24.6
 
-Recommended render target size: [2152, 2632]
+Recommended render target size: [2048, 2048]
 
 Left eye HAM mesh:
-     original vertices: 120, triangles: 40
-    optimized vertices: 48, n-gons: 4
-             mesh area: 19.11 %
+     original vertices: 96, triangles: 32
+    optimized vertices: 40, n-gons: 4
+             mesh area: 17.84 %
 
 Left eye to head transformation matrix:
-    [[ 1.      ,  0.      ,  0.      , -0.035   ],
+    [[ 1.      ,  0.      ,  0.      , -0.03074 ],
      [ 0.      ,  1.      ,  0.      ,  0.      ],
-     [ 0.      ,  0.      ,  1.      ,  0.      ]]
+     [ 0.      ,  0.      ,  1.      ,  0.03    ]]
 
 Left eye raw LRBT values:
-    left:        -1.647692
-    right:        0.945419
-    bottom:      -1.586718
-    top:          1.586718
+    left:        -0.985081
+    right:        0.733315
+    bottom:      -0.988370
+    top:          0.988316
 
 Left eye head FOV:
-    left:       -58.75 deg
-    right:       43.39 deg
-    bottom:     -53.11 deg
-    top:         53.11 deg
-    horiz.:     102.14 deg
-    vert.:      106.23 deg
+    left:       -44.57 deg
+    right:       36.25 deg
+    bottom:     -44.66 deg
+    top:         44.66 deg
+    horiz.:      80.82 deg
+    vert.:       89.33 deg
 
 Right eye HAM mesh:
-     original vertices: 120, triangles: 40
-    optimized vertices: 48, n-gons: 4
-             mesh area: 19.11 %
+     original vertices: 96, triangles: 32
+    optimized vertices: 40, n-gons: 4
+             mesh area: 17.84 %
 
 Right eye to head transformation matrix:
-    [[ 1.      ,  0.      ,  0.      ,  0.035   ],
+    [[ 1.      ,  0.      ,  0.      ,  0.03074 ],
      [ 0.      ,  1.      ,  0.      ,  0.      ],
-     [ 0.      ,  0.      ,  1.      ,  0.      ]]
+     [ 0.      ,  0.      ,  1.      ,  0.03    ]]
 
 Right eye raw LRBT values:
-    left:        -0.945419
-    right:        1.647692
-    bottom:      -1.586718
-    top:          1.586718
+    left:        -0.710317
+    right:        0.990550
+    bottom:      -0.987397
+    top:          0.987209
 
 Right eye head FOV:
-    left:       -43.39 deg
-    right:       58.75 deg
-    bottom:     -53.11 deg
-    top:         53.11 deg
-    horiz.:     102.14 deg
-    vert.:      106.23 deg
+    left:       -35.39 deg
+    right:       44.73 deg
+    bottom:     -44.64 deg
+    top:         44.63 deg
+    horiz.:      80.11 deg
+    vert.:       89.27 deg
 
 Total FOV:
-    horizontal: 117.49 deg
-    vertical:   106.23 deg
-    diagonal:   122.15 deg
-    overlap:     86.79 deg
+    horizontal:  89.30 deg
+    vertical:    89.30 deg
+    diagonal:    92.42 deg
+    overlap:     71.64 deg
 
 View geometry:
     left view rotation:     0.0 deg
     right view rotation:    0.0 deg
-    reported IPD:          70.0 mm
+    reported IPD:          61.5 mm
 
 
 ```
-Recorded and contributed by _mkmax_.
+Recorded and contributed by _Maika_.
 
 ## Rendered FOV visualizations
 
@@ -126,14 +126,14 @@ of the image.
   into the parallel (checkerboard) plane.
 
 ### Top view
-[![Pimax Artisan (Small FOV, Parallel Projection ON, 90Hz, IPD:70mm) - top view](../images/PimaxArtisan_Small_PP_R90_I70_top.dmx.png)](../images/PimaxArtisan_Small_PP_R90_I70_top.dmx.png)
+[![Varjo VR-2 (60Hz) - top view](../images/VarjoVR-2_Native_R60_top.dmx.png)](../images/VarjoVR-2_Native_R60_top.dmx.png)
 
 ### Left view
-[![Pimax Artisan (Small FOV, Parallel Projection ON, 90Hz, IPD:70mm) - left view](../images/PimaxArtisan_Small_PP_R90_I70_left.dmx.png)](../images/PimaxArtisan_Small_PP_R90_I70_left.dmx.png)
+[![Varjo VR-2 (60Hz) - left view](../images/VarjoVR-2_Native_R60_left.dmx.png)](../images/VarjoVR-2_Native_R60_left.dmx.png)
 
 ### Back view
-[![Pimax Artisan (Small FOV, Parallel Projection ON, 90Hz, IPD:70mm) - back view](../images/PimaxArtisan_Small_PP_R90_I70_back.dmx.png)](../images/PimaxArtisan_Small_PP_R90_I70_back.dmx.png)
+[![Varjo VR-2 (60Hz) - back view](../images/VarjoVR-2_Native_R60_back.dmx.png)](../images/VarjoVR-2_Native_R60_back.dmx.png)
 
 ### Full view
-[![Pimax Artisan (Small FOV, Parallel Projection ON, 90Hz, IPD:70mm) - full view](../images/PimaxArtisan_Small_PP_R90_I70_over.dmx.png)](../images/PimaxArtisan_Small_PP_R90_I70_over.dmx.png)
+[![Varjo VR-2 (60Hz) - full view](../images/VarjoVR-2_Native_R60_over.dmx.png)](../images/VarjoVR-2_Native_R60_over.dmx.png)
 
