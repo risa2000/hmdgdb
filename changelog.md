@@ -3,6 +3,9 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*November 1, 2022*
+* Quest Pro (added)
+
 *October 20, 2022*
 * Varjo VR-2 (added)
 

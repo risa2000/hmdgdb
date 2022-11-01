@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2022-10-20 20:54:29
+date: 2022-11-01 20:53:18
 permalink: /
 ---
 # HMD Geometry Database
@@ -26,6 +26,7 @@ HTC VIVE Pro 2 | [Native+R90](hmd_cfgs/VIVEPro2_Native_R90.md) | [116.52°](imag
 HTC Vive Elite | [Native+R90](hmd_cfgs/ViveElite_Native_R90.md) | [97.62°](images/ViveElite_Native_R90_top.dmx.png) | [103.03°](images/ViveElite_Native_R90_left.dmx.png) | [109.31°](images/ViveElite_Native_R90_over.dmx.png) | [79.57°](images/ViveElite_Native_R90_top.dmx.png) | [9.14%](images/ViveElite_Native_R90_back.dmx.png) |  | 
 HTC Vive Pro | [Native+R90](hmd_cfgs/VivePro_Native_R90.md) | [107.06°](images/VivePro_Native_R90_top.dmx.png) | [107.71°](images/VivePro_Native_R90_left.dmx.png) | [110.48°](images/VivePro_Native_R90_over.dmx.png) | [90.46°](images/VivePro_Native_R90_top.dmx.png) | [20.20%](images/VivePro_Native_R90_back.dmx.png) |  | 
 HTC Vive | [Native+R90](hmd_cfgs/Vive_Native_R90.md) | [108.77°](images/Vive_Native_R90_top.dmx.png) | [111.53°](images/Vive_Native_R90_left.dmx.png) | [113.18°](images/Vive_Native_R90_over.dmx.png) | [93.45°](images/Vive_Native_R90_top.dmx.png) | [19.10%](images/Vive_Native_R90_back.dmx.png) |  | 
+Oculus Meta Quest Pro | [Native+R72](hmd_cfgs/MetaQuestPro_Native_R72.md) | [108.00°](images/MetaQuestPro_Native_R72_top.dmx.png) | [95.57°](images/MetaQuestPro_Native_R72_left.dmx.png) | [111.24°](images/MetaQuestPro_Native_R72_over.dmx.png) | [79.72°](images/MetaQuestPro_Native_R72_top.dmx.png) | [14.11%](images/MetaQuestPro_Native_R72_back.dmx.png) |  | 
 Oculus Rift CV1 | [Native+R90](hmd_cfgs/OculusRiftCV1_Native_R90.md) | [87.95°](images/OculusRiftCV1_Native_R90_top.dmx.png) | [89.66°](images/OculusRiftCV1_Native_R90_left.dmx.png) | [98.07°](images/OculusRiftCV1_Native_R90_over.dmx.png) | [71.15°](images/OculusRiftCV1_Native_R90_top.dmx.png) | [14.07%](images/OculusRiftCV1_Native_R90_back.dmx.png) |  | 
 Oculus Quest 2 | [Native+R72](hmd_cfgs/Quest2_Native_R72.md) | [104.00°](images/Quest2_Native_R72_top.dmx.png) | [98.00°](images/Quest2_Native_R72_left.dmx.png) | [113.46°](images/Quest2_Native_R72_over.dmx.png) | [90.00°](images/Quest2_Native_R72_top.dmx.png) | [9.13%](images/Quest2_Native_R72_back.dmx.png) |  | 
 Oculus Quest | [Native+R72](hmd_cfgs/Quest_Native_R72.md) | [104.00°](images/Quest_Native_R72_top.dmx.png) | [100.00°](images/Quest_Native_R72_left.dmx.png) | [115.52°](images/Quest_Native_R72_over.dmx.png) | [84.00°](images/Quest_Native_R72_top.dmx.png) | [5.69%](images/Quest_Native_R72_back.dmx.png) |  | 
@@ -137,5 +138,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2022-10-20 20:30:10  
-The table was generated: 2022-10-20 20:54:29
+The latest headset data recorded: 2022-10-29 11:56:41  
+The table was generated: 2022-11-01 20:53:18

@@ -13,4 +13,5 @@ same nickname, I am also visiting [reddit](https://www.reddit.com), so if you
 decide to start a thread about anything from here there, you can summon me as
 well.
 
-For private inquiries, you can contact me at _risa2000x_ _at_ _gmail_.
+For private inquiries, or for sending the recorded data, you can contact me at
+_risa2000x_ _at_ _gmail_.
