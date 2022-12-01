@@ -1,6 +1,6 @@
 ---
 title: Varjo Aero (90Hz)
-date: 2022-04-03 14:53:37
+date: 2022-11-06 23:22:31
 ---
 # Varjo Aero (90Hz)
 
@@ -8,18 +8,18 @@ date: 2022-04-03 14:53:37
 
 as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq).
 ```
-hmdv version 2.1.3 - displaying hmdq output data in no time
+hmdv version 2.1.4 - displaying hmdq output data in no time
 
-    Time stamp: 2022-04-03 14:53:37
-  hmdq version: 2.1.1
+    Time stamp: 2022-11-06 23:22:31
+  hmdq version: 2.1.3
 Output version: 5
-    OS version: 10.0.19041.1586
+    OS version: 10.0.19041.2130
 
 ... Subsystem: OpenVR ...
 
-OpenVR runtime version: 1.21.12
+OpenVR runtime version: 1.24.6
 
-Recommended render target size: [4468, 3828]
+Recommended render target size: [4148, 3556]
 
 Left eye HAM mesh:
      original vertices: 522, triangles: 174
@@ -32,18 +32,18 @@ Left eye to head transformation matrix:
      [ 0.      ,  0.      ,  1.      ,  0.      ]]
 
 Left eye raw LRBT values:
-    left:        -1.533223
-    right:        0.700223
-    bottom:      -1.055011
-    top:          0.774363
+    left:        -1.575568
+    right:        0.710474
+    bottom:      -1.115883
+    top:          0.804051
 
 Left eye head FOV:
-    left:       -54.84 deg
-    right:       34.52 deg
-    bottom:     -45.31 deg
-    top:         37.70 deg
-    horiz.:      89.36 deg
-    vert.:       83.00 deg
+    left:       -55.58 deg
+    right:       34.90 deg
+    bottom:     -46.93 deg
+    top:         38.74 deg
+    horiz.:      90.48 deg
+    vert.:       85.67 deg
 
 Right eye HAM mesh:
      original vertices: 522, triangles: 174
@@ -56,24 +56,24 @@ Right eye to head transformation matrix:
      [ 0.      ,  0.      ,  1.      ,  0.      ]]
 
 Right eye raw LRBT values:
-    left:        -0.706611
-    right:        1.506615
-    bottom:      -1.052922
-    top:          0.772924
+    left:        -0.716088
+    right:        1.552822
+    bottom:      -1.113703
+    top:          0.802669
 
 Right eye head FOV:
-    left:       -34.77 deg
-    right:       54.35 deg
-    bottom:     -45.24 deg
-    top:         37.64 deg
-    horiz.:      89.12 deg
-    vert.:       82.88 deg
+    left:       -35.12 deg
+    right:       55.18 deg
+    bottom:     -46.86 deg
+    top:         38.69 deg
+    horiz.:      90.30 deg
+    vert.:       85.55 deg
 
 Total FOV:
-    horizontal: 109.19 deg
-    vertical:    82.94 deg
-    diagonal:   119.57 deg
-    overlap:     69.28 deg
+    horizontal: 110.76 deg
+    vertical:    85.61 deg
+    diagonal:   121.17 deg
+    overlap:     70.02 deg
 
 View geometry:
     left view rotation:     0.0 deg
@@ -82,7 +82,7 @@ View geometry:
 
 
 ```
-Recorded and contributed by _knob2001_.
+Recorded and contributed by _anonymous_.
 
 ## Rendered FOV visualizations
 

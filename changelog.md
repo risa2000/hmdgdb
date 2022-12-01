@@ -3,6 +3,9 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*December 1, 2022*
+* Varjo Aero (updated to v3.7.2)
+
 *November 1, 2022*
 * Quest Pro (added)
 
