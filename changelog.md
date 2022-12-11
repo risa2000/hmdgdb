@@ -3,6 +3,9 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*December 11, 2022*
+* Varjo XR-1 (added)
+
 *December 2, 2022*
 * Pico Neo 3 (added)
 

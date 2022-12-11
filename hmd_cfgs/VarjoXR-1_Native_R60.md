@@ -1,8 +1,8 @@
 ---
-title: HTC VIVE Pro 2 (120Hz)
-date: 2021-06-07 00:57:56
+title: Varjo XR-1 (60Hz)
+date: 2022-12-11 11:03:36
 ---
-# HTC VIVE Pro 2 (120Hz)
+# Varjo XR-1 (60Hz)
 
 ## Geometry
 
@@ -10,79 +10,79 @@ as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq
 ```
 hmdv version 2.1.4 - displaying hmdq output data in no time
 
-    Time stamp: 2021-06-07 00:57:56
-  hmdq version: 2.1.1
+    Time stamp: 2022-12-11 11:03:36
+  hmdq version: 2.1.4
 Output version: 5
-    OS version: 10.0.19041.985
+    OS version: 10.0.19041.1826
 
 ... Subsystem: OpenVR ...
 
-OpenVR runtime version: 1.17.14
+OpenVR runtime version: 1.25.1
 
-Recommended render target size: [2812, 2812]
+Recommended render target size: [2048, 2048]
 
 Left eye HAM mesh:
-     original vertices: 114, triangles: 38
-    optimized vertices: 45, n-gons: 4
-             mesh area: 10.09 %
+     original vertices: 96, triangles: 32
+    optimized vertices: 40, n-gons: 4
+             mesh area: 17.84 %
 
 Left eye to head transformation matrix:
-    [[ 1.      ,  0.      ,  0.      , -0.03525 ],
+    [[ 1.      ,  0.      ,  0.      , -0.035783],
      [ 0.      ,  1.      ,  0.      ,  0.      ],
-     [ 0.      ,  0.      ,  1.      ,  0.015   ]]
+     [ 0.      ,  0.      ,  1.      ,  0.03    ]]
 
 Left eye raw LRBT values:
-    left:        -1.616823
-    right:        0.837388
-    bottom:      -1.115087
-    top:          1.119002
+    left:        -0.990655
+    right:        0.719439
+    bottom:      -0.987774
+    top:          0.987730
 
 Left eye head FOV:
-    left:       -58.26 deg
-    right:       39.94 deg
-    bottom:     -48.11 deg
-    top:         48.21 deg
-    horiz.:      98.20 deg
-    vert.:       96.33 deg
+    left:       -44.73 deg
+    right:       35.73 deg
+    bottom:     -44.65 deg
+    top:         44.65 deg
+    horiz.:      80.46 deg
+    vert.:       89.29 deg
 
 Right eye HAM mesh:
-     original vertices: 114, triangles: 38
-    optimized vertices: 45, n-gons: 4
-             mesh area: 9.96 %
+     original vertices: 96, triangles: 32
+    optimized vertices: 40, n-gons: 4
+             mesh area: 17.84 %
 
 Right eye to head transformation matrix:
-    [[ 1.      ,  0.      ,  0.      ,  0.03525 ],
+    [[ 1.      ,  0.      ,  0.      ,  0.035783],
      [ 0.      ,  1.      ,  0.      ,  0.      ],
-     [ 0.      ,  0.      ,  1.      ,  0.015   ]]
+     [ 0.      ,  0.      ,  1.      ,  0.03    ]]
 
 Right eye raw LRBT values:
-    left:        -0.835761
-    right:        1.616455
-    bottom:      -1.118511
-    top:          1.128089
+    left:        -0.741084
+    right:        0.978845
+    bottom:      -0.988655
+    top:          0.988615
 
 Right eye head FOV:
-    left:       -39.89 deg
-    right:       58.26 deg
-    bottom:     -48.20 deg
-    top:         48.44 deg
-    horiz.:      98.14 deg
-    vert.:       96.65 deg
+    left:       -36.54 deg
+    right:       44.39 deg
+    bottom:     -44.67 deg
+    top:         44.67 deg
+    horiz.:      80.93 deg
+    vert.:       89.35 deg
 
 Total FOV:
-    horizontal: 116.52 deg
-    vertical:    96.49 deg
-    diagonal:   113.30 deg
-    overlap:     79.83 deg
+    horizontal:  89.12 deg
+    vertical:    89.32 deg
+    diagonal:    92.28 deg
+    overlap:     72.27 deg
 
 View geometry:
     left view rotation:     0.0 deg
     right view rotation:    0.0 deg
-    reported IPD:          70.5 mm
+    reported IPD:          71.6 mm
 
 
 ```
-Recorded and contributed by _JoCool_.
+Recorded and contributed by _m3gagluk_.
 
 ## Rendered FOV visualizations
 
@@ -126,14 +126,14 @@ of the image.
   into the parallel (checkerboard) plane.
 
 ### Top view
-[![HTC VIVE Pro 2 (120Hz) - top view](../images/VIVEPro2_Native_R120_top.dmx.png)](../images/VIVEPro2_Native_R120_top.dmx.png)
+[![Varjo XR-1 (60Hz) - top view](../images/VarjoXR-1_Native_R60_top.dmx.png)](../images/VarjoXR-1_Native_R60_top.dmx.png)
 
 ### Left view
-[![HTC VIVE Pro 2 (120Hz) - left view](../images/VIVEPro2_Native_R120_left.dmx.png)](../images/VIVEPro2_Native_R120_left.dmx.png)
+[![Varjo XR-1 (60Hz) - left view](../images/VarjoXR-1_Native_R60_left.dmx.png)](../images/VarjoXR-1_Native_R60_left.dmx.png)
 
 ### Back view
-[![HTC VIVE Pro 2 (120Hz) - back view](../images/VIVEPro2_Native_R120_back.dmx.png)](../images/VIVEPro2_Native_R120_back.dmx.png)
+[![Varjo XR-1 (60Hz) - back view](../images/VarjoXR-1_Native_R60_back.dmx.png)](../images/VarjoXR-1_Native_R60_back.dmx.png)
 
 ### Full view
-[![HTC VIVE Pro 2 (120Hz) - full view](../images/VIVEPro2_Native_R120_over.dmx.png)](../images/VIVEPro2_Native_R120_over.dmx.png)
+[![Varjo XR-1 (60Hz) - full view](../images/VarjoXR-1_Native_R60_over.dmx.png)](../images/VarjoXR-1_Native_R60_over.dmx.png)
 

@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2022-12-02 12:38:41
+date: 2022-12-11 18:12:49
 permalink: /
 ---
 # HMD Geometry Database
@@ -21,7 +21,6 @@ Model | Config | FOV hor. | FOV ver. | FOV diag. | Overlap | HAM | Rot LE | Rot 
 --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---:
 HP Reverb G2 | [Native+R90](hmd_cfgs/ReverbG2_Native_R90.md) | [98.85°](images/ReverbG2_Native_R90_top.dmx.png) | [90.85°](images/ReverbG2_Native_R90_left.dmx.png) | [107.52°](images/ReverbG2_Native_R90_over.dmx.png) | [84.31°](images/ReverbG2_Native_R90_top.dmx.png) | [16.51%](images/ReverbG2_Native_R90_back.dmx.png) | 0.2° | -0.2°
 HP Reverb | [Native+R90](hmd_cfgs/Reverb_Native_R90.md) | [95.76°](images/Reverb_Native_R90_top.dmx.png) | [90.43°](images/Reverb_Native_R90_left.dmx.png) | [111.78°](images/Reverb_Native_R90_over.dmx.png) | [86.99°](images/Reverb_Native_R90_top.dmx.png) | [0.04%](images/Reverb_Native_R90_back.dmx.png) | 0.2° | -0.2°
-HTC VIVE Pro 2 | [Native+R120](hmd_cfgs/VIVEPro2_Native_R120.md) | [116.52°](images/VIVEPro2_Native_R120_top.dmx.png) | [96.49°](images/VIVEPro2_Native_R120_left.dmx.png) | [113.30°](images/VIVEPro2_Native_R120_over.dmx.png) | [79.83°](images/VIVEPro2_Native_R120_top.dmx.png) | [10.03%](images/VIVEPro2_Native_R120_back.dmx.png) |  | 
 HTC VIVE Pro 2 | [Native+R90](hmd_cfgs/VIVEPro2_Native_R90.md) | [116.52°](images/VIVEPro2_Native_R90_top.dmx.png) | [96.49°](images/VIVEPro2_Native_R90_left.dmx.png) | [113.30°](images/VIVEPro2_Native_R90_over.dmx.png) | [79.83°](images/VIVEPro2_Native_R90_top.dmx.png) | [10.03%](images/VIVEPro2_Native_R90_back.dmx.png) |  | 
 HTC Vive Elite | [Native+R90](hmd_cfgs/ViveElite_Native_R90.md) | [97.62°](images/ViveElite_Native_R90_top.dmx.png) | [103.03°](images/ViveElite_Native_R90_left.dmx.png) | [109.31°](images/ViveElite_Native_R90_over.dmx.png) | [79.57°](images/ViveElite_Native_R90_top.dmx.png) | [9.14%](images/ViveElite_Native_R90_back.dmx.png) |  | 
 HTC Vive Pro | [Native+R90](hmd_cfgs/VivePro_Native_R90.md) | [107.06°](images/VivePro_Native_R90_top.dmx.png) | [107.71°](images/VivePro_Native_R90_left.dmx.png) | [110.48°](images/VivePro_Native_R90_over.dmx.png) | [90.46°](images/VivePro_Native_R90_top.dmx.png) | [20.20%](images/VivePro_Native_R90_back.dmx.png) |  | 
@@ -93,6 +92,7 @@ Valve Index | [Native+R144](hmd_cfgs/Index_Native_R144.md) | [108.06°](images/I
 Valve Index | [PP+R144](hmd_cfgs/Index_PP_R144.md) | [109.26°](images/Index_PP_R144_top.dmx.png) | ([108.47°](images/Index_PP_R144_left.dmx.png)) | [114.19°](images/Index_PP_R144_over.dmx.png) | [84.13°](images/Index_PP_R144_top.dmx.png) | [24.88%](images/Index_PP_R144_back.dmx.png) |  | 
 Varjo Aero | [Native+R90](hmd_cfgs/VarjoAero_Native_R90.md) | [110.76°](images/VarjoAero_Native_R90_top.dmx.png) | [85.61°](images/VarjoAero_Native_R90_left.dmx.png) | [121.17°](images/VarjoAero_Native_R90_over.dmx.png) | [70.02°](images/VarjoAero_Native_R90_top.dmx.png) | [5.83%](images/VarjoAero_Native_R90_back.dmx.png) |  | 
 Varjo VR-2 | [Native+R60](hmd_cfgs/VarjoVR-2_Native_R60.md) | [89.30°](images/VarjoVR-2_Native_R60_top.dmx.png) | [89.30°](images/VarjoVR-2_Native_R60_left.dmx.png) | [92.42°](images/VarjoVR-2_Native_R60_over.dmx.png) | [71.64°](images/VarjoVR-2_Native_R60_top.dmx.png) | [17.84%](images/VarjoVR-2_Native_R60_back.dmx.png) |  | 
+Varjo XR-1 | [Native+R60](hmd_cfgs/VarjoXR-1_Native_R60.md) | [89.12°](images/VarjoXR-1_Native_R60_top.dmx.png) | [89.32°](images/VarjoXR-1_Native_R60_left.dmx.png) | [92.28°](images/VarjoXR-1_Native_R60_over.dmx.png) | [72.27°](images/VarjoXR-1_Native_R60_top.dmx.png) | [17.84%](images/VarjoXR-1_Native_R60_back.dmx.png) |  | 
 
 
 ---
@@ -139,5 +139,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2022-12-02 09:27:17  
-The table was generated: 2022-12-02 12:38:41
+The latest headset data recorded: 2022-12-11 11:03:36  
+The table was generated: 2022-12-11 18:12:49
