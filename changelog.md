@@ -3,6 +3,9 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*January 7, 2023*
+* Rerendered all images with Blender 3.4.
+
 *December 11, 2022*
 * Varjo XR-1 (added)
 

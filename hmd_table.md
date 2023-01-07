@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2022-12-11 18:12:49
+date: 2023-01-07 19:00:07
 permalink: /
 ---
 # HMD Geometry Database
@@ -140,4 +140,4 @@ panels are (most likely) coplanar and parallel to the face.
 ---
 
 The latest headset data recorded: 2022-12-11 11:03:36  
-The table was generated: 2022-12-11 18:12:49
+The table was generated: 2023-01-07 19:00:07
