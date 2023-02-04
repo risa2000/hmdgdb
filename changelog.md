@@ -3,6 +3,9 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*February 4, 2023*
+* HTC Vive Focus 3 (added)
+
 *January 7, 2023*
 * Rerendered all images with Blender 3.4.
 
