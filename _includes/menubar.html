@@ -6,11 +6,11 @@
     <ul class="menu-list">
         {% for item in menu.items %}
         <li>
-            <a href="{{ item.link | prepend: site.baseurl }}" class="{% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
+            <a href="{{ item.link | relative_url }}" class="{% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
             {% if item.items %}
             <ul>
                 {% for subitem in item.items %}
-                <li><a href="{{ subitem.link | prepend: site.baseurl }}" class="{% if subitem.link == page.url %}is-active{% endif %}">{{ subitem.name }}</a></li>
+                <li><a href="{{ subitem.link | relative_url }}" class="{% if subitem.link == page.url %}is-active{% endif %}">{{ subitem.name }}</a></li>
                 {% endfor %}
             </ul>
             {% endif %}
@@ -18,8 +18,4 @@
         {% endfor %}    
     </ul>
 {% endfor %}
-{% if page.menubar_toc %}
-    <p class="menu-label">{{ page.title }}</p>
-    {% include toc.html html=content class="menu-list" h_min=2 h_max=3 %}
-{% endif %}
 </aside>
