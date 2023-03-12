@@ -3,6 +3,9 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*March 12, 2023*
+* Oculus Rift S (added)
+
 *February 4, 2023*
 * HTC Vive Focus 3 (added)
 
