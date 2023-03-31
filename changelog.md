@@ -3,6 +3,9 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*March 31, 2023*
+* HTC Vive XR Streaming (added)
+
 *March 12, 2023*
 * Oculus Rift S (added)
 
