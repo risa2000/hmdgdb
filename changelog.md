@@ -3,6 +3,9 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*April 10, 2023*
+* DPVR E4 (added)
+
 *March 31, 2023*
 * HTC Vive XR Streaming (added)
 

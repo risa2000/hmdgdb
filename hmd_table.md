@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2023-03-31 08:48:40
+date: 2023-04-10 20:41:17
 permalink: /
 ---
 # HMD Geometry Database
@@ -19,6 +19,7 @@ see
 
 Model | Config | FOV hor. | FOV ver. | FOV diag. | Overlap | HAM | Rot LE | Rot RE
 --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---:
+DPVR E4 | [Native+R120](hmd_cfgs/E4_Native_R120.md) | [96.00°](images/E4_Native_R120_top.dmx.png) | [96.00°](images/E4_Native_R120_left.dmx.png) | [115.03°](images/E4_Native_R120_over.dmx.png) | [96.00°](images/E4_Native_R120_top.dmx.png) |  |  | 
 HP Reverb G2 | [Native+R90](hmd_cfgs/ReverbG2_Native_R90.md) | [98.85°](images/ReverbG2_Native_R90_top.dmx.png) | [90.85°](images/ReverbG2_Native_R90_left.dmx.png) | [107.52°](images/ReverbG2_Native_R90_over.dmx.png) | [84.31°](images/ReverbG2_Native_R90_top.dmx.png) | [16.51%](images/ReverbG2_Native_R90_back.dmx.png) | 0.2° | -0.2°
 HP Reverb | [Native+R90](hmd_cfgs/Reverb_Native_R90.md) | [95.76°](images/Reverb_Native_R90_top.dmx.png) | [90.43°](images/Reverb_Native_R90_left.dmx.png) | [111.78°](images/Reverb_Native_R90_over.dmx.png) | [86.99°](images/Reverb_Native_R90_top.dmx.png) | [0.04%](images/Reverb_Native_R90_back.dmx.png) | 0.2° | -0.2°
 HTC VIVE Pro 2 | [Native+R90](hmd_cfgs/VIVEPro2_Native_R90.md) | [116.52°](images/VIVEPro2_Native_R90_top.dmx.png) | [96.49°](images/VIVEPro2_Native_R90_left.dmx.png) | [113.30°](images/VIVEPro2_Native_R90_over.dmx.png) | [79.83°](images/VIVEPro2_Native_R90_top.dmx.png) | [10.03%](images/VIVEPro2_Native_R90_back.dmx.png) |  | 
@@ -142,5 +143,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2023-03-30 16:27:22  
-The table was generated: 2023-03-31 08:48:40
+The latest headset data recorded: 2023-04-10 20:04:53  
+The table was generated: 2023-04-10 20:41:17
