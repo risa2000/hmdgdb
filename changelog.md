@@ -3,6 +3,9 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*June 6, 2023*
+* Lenovo Explorer (added)
+
 *April 10, 2023*
 * DPVR E4 (added)
 
