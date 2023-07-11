@@ -3,6 +3,9 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*July 11, 2023*
+* Pimax Crystal (added)
+
 *June 6, 2023*
 * Lenovo Explorer (added)
 

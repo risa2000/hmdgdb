@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2023-06-06 20:57:05
+date: 2023-07-11 23:01:51
 permalink: /
 ---
 # HMD Geometry Database
@@ -67,6 +67,7 @@ Pimax Artisan | [Tiny+Native+R90+I60](hmd_cfgs/PimaxArtisan_Tiny_Native_R90_I60.
 Pimax Artisan | [Tiny+Native+R90+I70](hmd_cfgs/PimaxArtisan_Tiny_Native_R90_I70.md) | [97.49°](images/PimaxArtisan_Tiny_Native_R90_I70_top.dmx.png) | [102.70°](images/PimaxArtisan_Tiny_Native_R90_I70_left.dmx.png) | [107.11°](images/PimaxArtisan_Tiny_Native_R90_I70_over.dmx.png) | [86.79°](images/PimaxArtisan_Tiny_Native_R90_I70_top.dmx.png) | [8.73%](images/PimaxArtisan_Tiny_Native_R90_I70_back.dmx.png) | -10.0° | 10.0°
 Pimax Artisan | [Tiny+PP+R90+I60](hmd_cfgs/PimaxArtisan_Tiny_PP_R90_I60.md) | [111.56°](images/PimaxArtisan_Tiny_PP_R90_I60_top.dmx.png) | ([107.60°](images/PimaxArtisan_Tiny_PP_R90_I60_left.dmx.png)) | [119.12°](images/PimaxArtisan_Tiny_PP_R90_I60_over.dmx.png) | [86.79°](images/PimaxArtisan_Tiny_PP_R90_I60_top.dmx.png) | [19.11%](images/PimaxArtisan_Tiny_PP_R90_I60_back.dmx.png) |  | 
 Pimax Artisan | [Tiny+PP+R90+I70](hmd_cfgs/PimaxArtisan_Tiny_PP_R90_I70.md) | [97.49°](images/PimaxArtisan_Tiny_PP_R90_I70_top.dmx.png) | ([110.63°](images/PimaxArtisan_Tiny_PP_R90_I70_left.dmx.png)) | [113.13°](images/PimaxArtisan_Tiny_PP_R90_I70_over.dmx.png) | [86.79°](images/PimaxArtisan_Tiny_PP_R90_I70_top.dmx.png) | [19.11%](images/PimaxArtisan_Tiny_PP_R90_I70_back.dmx.png) |  | 
+Pimax Crystal | [Native+R120](hmd_cfgs/PimaxCrystal_Native_R120.md) | [103.31°](images/PimaxCrystal_Native_R120_top.dmx.png) | [103.75°](images/PimaxCrystal_Native_R120_left.dmx.png) | [115.99°](images/PimaxCrystal_Native_R120_over.dmx.png) | [83.31°](images/PimaxCrystal_Native_R120_top.dmx.png) | [3.49%](images/PimaxCrystal_Native_R120_back.dmx.png) |  | 
 Pimax Vision 8K Plus | [Large+Native+R110](hmd_cfgs/PimaxVision8KPlus_Large_Native_R110.md) | [159.21°](images/PimaxVision8KPlus_Large_Native_R110_top.dmx.png) | [102.70°](images/PimaxVision8KPlus_Large_Native_R110_left.dmx.png) | [152.17°](images/PimaxVision8KPlus_Large_Native_R110_over.dmx.png) | [86.79°](images/PimaxVision8KPlus_Large_Native_R110_top.dmx.png) | [8.73%](images/PimaxVision8KPlus_Large_Native_R110_back.dmx.png) | -10.0° | 10.0°
 Pimax Vision 8K Plus | [Large+Native+R90](hmd_cfgs/PimaxVision8KPlus_Large_Native_R90.md) | [160.29°](images/PimaxVision8KPlus_Large_Native_R90_top.dmx.png) | [102.70°](images/PimaxVision8KPlus_Large_Native_R90_left.dmx.png) | [158.04°](images/PimaxVision8KPlus_Large_Native_R90_over.dmx.png) | [86.79°](images/PimaxVision8KPlus_Large_Native_R90_top.dmx.png) | [3.49%](images/PimaxVision8KPlus_Large_Native_R90_back.dmx.png) | -10.0° | 10.0°
 Pimax Vision 8K Plus | [Large+PP+R110](hmd_cfgs/PimaxVision8KPlus_Large_PP_R110.md) | [159.21°](images/PimaxVision8KPlus_Large_PP_R110_top.dmx.png) | ([95.07°](images/PimaxVision8KPlus_Large_PP_R110_left.dmx.png)) | [155.82°](images/PimaxVision8KPlus_Large_PP_R110_over.dmx.png) | [86.79°](images/PimaxVision8KPlus_Large_PP_R110_top.dmx.png) | [19.11%](images/PimaxVision8KPlus_Large_PP_R110_back.dmx.png) |  | 
@@ -144,5 +145,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2023-06-05 13:00:16  
-The table was generated: 2023-06-06 20:57:05
+The latest headset data recorded: 2023-06-24 18:49:20  
+The table was generated: 2023-07-11 23:01:51
