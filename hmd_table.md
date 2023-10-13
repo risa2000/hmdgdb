@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2023-07-11 23:01:51
+date: 2023-10-13 21:49:39
 permalink: /
 ---
 # HMD Geometry Database
@@ -29,7 +29,8 @@ HTC Vive Pro | [Native+R90](hmd_cfgs/VivePro_Native_R90.md) | [107.06°](images/
 HTC Vive XR Streaming | [Native+R90](hmd_cfgs/ViveXRStreaming_Native_R90.md) | [102.13°](images/ViveXRStreaming_Native_R90_top.dmx.png) | [91.27°](images/ViveXRStreaming_Native_R90_left.dmx.png) | [116.04°](images/ViveXRStreaming_Native_R90_over.dmx.png) | [80.93°](images/ViveXRStreaming_Native_R90_top.dmx.png) | [0.00%](images/ViveXRStreaming_Native_R90_back.dmx.png) |  | 
 HTC Vive | [Native+R90](hmd_cfgs/Vive_Native_R90.md) | [108.77°](images/Vive_Native_R90_top.dmx.png) | [111.53°](images/Vive_Native_R90_left.dmx.png) | [113.18°](images/Vive_Native_R90_over.dmx.png) | [93.45°](images/Vive_Native_R90_top.dmx.png) | [19.10%](images/Vive_Native_R90_back.dmx.png) |  | 
 Lenovo Explorer | [Native+R90](hmd_cfgs/Explorer_Native_R90.md) | [101.73°](images/Explorer_Native_R90_top.dmx.png) | [101.20°](images/Explorer_Native_R90_left.dmx.png) | [103.40°](images/Explorer_Native_R90_over.dmx.png) | [100.64°](images/Explorer_Native_R90_top.dmx.png) | [17.74%](images/Explorer_Native_R90_back.dmx.png) | -0.8° | 0.8°
-Oculus Meta Quest Pro | [Native+R72](hmd_cfgs/MetaQuestPro_Native_R72.md) | [108.00°](images/MetaQuestPro_Native_R72_top.dmx.png) | [95.57°](images/MetaQuestPro_Native_R72_left.dmx.png) | [111.24°](images/MetaQuestPro_Native_R72_over.dmx.png) | [79.72°](images/MetaQuestPro_Native_R72_top.dmx.png) | [14.11%](images/MetaQuestPro_Native_R72_back.dmx.png) |  | 
+Meta Quest 3 | [Native+R72](hmd_cfgs/MetaQuest3_Native_R72.md) | [108.00°](images/MetaQuest3_Native_R72_top.dmx.png) | [98.25°](images/MetaQuest3_Native_R72_left.dmx.png) | [113.30°](images/MetaQuest3_Native_R72_over.dmx.png) | [80.00°](images/MetaQuest3_Native_R72_top.dmx.png) | [12.89%](images/MetaQuest3_Native_R72_back.dmx.png) |  | 
+Meta Quest Pro | [Native+R72](hmd_cfgs/MetaQuestPro_Native_R72.md) | [108.00°](images/MetaQuestPro_Native_R72_top.dmx.png) | [95.57°](images/MetaQuestPro_Native_R72_left.dmx.png) | [111.24°](images/MetaQuestPro_Native_R72_over.dmx.png) | [79.72°](images/MetaQuestPro_Native_R72_top.dmx.png) | [14.11%](images/MetaQuestPro_Native_R72_back.dmx.png) |  | 
 Oculus Rift CV1 | [Native+R90](hmd_cfgs/OculusRiftCV1_Native_R90.md) | [87.95°](images/OculusRiftCV1_Native_R90_top.dmx.png) | [89.66°](images/OculusRiftCV1_Native_R90_left.dmx.png) | [98.07°](images/OculusRiftCV1_Native_R90_over.dmx.png) | [71.15°](images/OculusRiftCV1_Native_R90_top.dmx.png) | [14.07%](images/OculusRiftCV1_Native_R90_back.dmx.png) |  | 
 Oculus Rift S | [Native+R80](hmd_cfgs/OculusRiftS_Native_R80.md) | [88.00°](images/OculusRiftS_Native_R80_top.dmx.png) | [94.00°](images/OculusRiftS_Native_R80_left.dmx.png) | [101.95°](images/OculusRiftS_Native_R80_over.dmx.png) | [92.00°](images/OculusRiftS_Native_R80_top.dmx.png) | [11.26%](images/OculusRiftS_Native_R80_back.dmx.png) |  | 
 Oculus Quest 2 | [Native+R72](hmd_cfgs/Quest2_Native_R72.md) | [104.00°](images/Quest2_Native_R72_top.dmx.png) | [98.00°](images/Quest2_Native_R72_left.dmx.png) | [113.46°](images/Quest2_Native_R72_over.dmx.png) | [90.00°](images/Quest2_Native_R72_top.dmx.png) | [9.13%](images/Quest2_Native_R72_back.dmx.png) |  | 
@@ -145,5 +146,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2023-06-24 18:49:20  
-The table was generated: 2023-07-11 23:01:51
+The latest headset data recorded: 2023-10-13 21:03:24  
+The table was generated: 2023-10-13 21:49:39

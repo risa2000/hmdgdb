@@ -3,6 +3,9 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*October 13, 2023*
+* Meta Quest 3 (added)
+
 *July 11, 2023*
 * Pimax Crystal (added)
 

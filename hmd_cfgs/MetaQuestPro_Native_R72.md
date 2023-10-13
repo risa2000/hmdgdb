@@ -1,14 +1,14 @@
 ---
-title: Oculus Meta Quest Pro (72Hz)
+title: Meta Quest Pro (72Hz)
 date: 2022-10-29 11:56:41
 ---
-# Oculus Meta Quest Pro (72Hz)
+# Meta Quest Pro (72Hz)
 
 ## Geometry
 
 as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq).
 ```
-hmdv version 2.1.5 - displaying hmdq output data in no time
+hmdv version 2.1.6 - displaying hmdq output data in no time
 
     Time stamp: 2022-10-29 11:56:41
   hmdq version: 2.1.3
@@ -142,14 +142,14 @@ of the image.
   into the parallel (checkerboard) plane.
 
 ### Top view
-[![Oculus Meta Quest Pro (72Hz) - top view](../images/MetaQuestPro_Native_R72_top.dmx.png)](../images/MetaQuestPro_Native_R72_top.dmx.png)
+[![Meta Quest Pro (72Hz) - top view](../images/MetaQuestPro_Native_R72_top.dmx.png)](../images/MetaQuestPro_Native_R72_top.dmx.png)
 
 ### Left view
-[![Oculus Meta Quest Pro (72Hz) - left view](../images/MetaQuestPro_Native_R72_left.dmx.png)](../images/MetaQuestPro_Native_R72_left.dmx.png)
+[![Meta Quest Pro (72Hz) - left view](../images/MetaQuestPro_Native_R72_left.dmx.png)](../images/MetaQuestPro_Native_R72_left.dmx.png)
 
 ### Back view
-[![Oculus Meta Quest Pro (72Hz) - back view](../images/MetaQuestPro_Native_R72_back.dmx.png)](../images/MetaQuestPro_Native_R72_back.dmx.png)
+[![Meta Quest Pro (72Hz) - back view](../images/MetaQuestPro_Native_R72_back.dmx.png)](../images/MetaQuestPro_Native_R72_back.dmx.png)
 
 ### Full view
-[![Oculus Meta Quest Pro (72Hz) - full view](../images/MetaQuestPro_Native_R72_over.dmx.png)](../images/MetaQuestPro_Native_R72_over.dmx.png)
+[![Meta Quest Pro (72Hz) - full view](../images/MetaQuestPro_Native_R72_over.dmx.png)](../images/MetaQuestPro_Native_R72_over.dmx.png)
 
