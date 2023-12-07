@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2023-10-13 23:30:35
+date: 2023-12-07 00:54:25
 permalink: /
 ---
 # HMD Geometry Database
@@ -19,6 +19,7 @@ see
 
 Model | Config | FOV hor. | FOV ver. | FOV diag. | Overlap | HAM | Rot LE | Rot RE
 --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---:
+Bigscreen Beyond | [Native+R90](hmd_cfgs/Beyond_Native_R90.md) | [97.53°](images/Beyond_Native_R90_top.dmx.png) | [88.55°](images/Beyond_Native_R90_left.dmx.png) | [112.16°](images/Beyond_Native_R90_over.dmx.png) | [79.60°](images/Beyond_Native_R90_top.dmx.png) |  |  | 
 DPVR E4 | [Native+R120](hmd_cfgs/E4_Native_R120.md) | [96.00°](images/E4_Native_R120_top.dmx.png) | [96.00°](images/E4_Native_R120_left.dmx.png) | [115.03°](images/E4_Native_R120_over.dmx.png) | [96.00°](images/E4_Native_R120_top.dmx.png) |  |  | 
 HP Reverb G2 | [Native+R90](hmd_cfgs/ReverbG2_Native_R90.md) | [98.85°](images/ReverbG2_Native_R90_top.dmx.png) | [90.85°](images/ReverbG2_Native_R90_left.dmx.png) | [107.52°](images/ReverbG2_Native_R90_over.dmx.png) | [84.31°](images/ReverbG2_Native_R90_top.dmx.png) | [16.51%](images/ReverbG2_Native_R90_back.dmx.png) | 0.2° | -0.2°
 HP Reverb | [Native+R90](hmd_cfgs/Reverb_Native_R90.md) | [95.76°](images/Reverb_Native_R90_top.dmx.png) | [90.43°](images/Reverb_Native_R90_left.dmx.png) | [111.78°](images/Reverb_Native_R90_over.dmx.png) | [86.99°](images/Reverb_Native_R90_top.dmx.png) | [0.04%](images/Reverb_Native_R90_back.dmx.png) | 0.2° | -0.2°
@@ -146,5 +147,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2023-10-13 21:03:24  
-The table was generated: 2023-10-13 23:30:35
+The latest headset data recorded: 2023-12-06 15:20:27  
+The table was generated: 2023-12-07 00:54:25

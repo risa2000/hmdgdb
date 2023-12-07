@@ -3,6 +3,9 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*December 7, 2023*
+* Bigscreen Beyond (added)
+
 *October 13, 2023*
 * Meta Quest 3 (added)
 
