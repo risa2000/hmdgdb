@@ -4,7 +4,7 @@
 
 # theme
 theme: bulma-clean-theme
-#remote_theme: chrisrhymes/bulma-clean-theme
+#remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 
 # plugins
 plugins:
@@ -36,4 +36,3 @@ social:
   name: Richard Musil
   links:
     - https://github.com/risa2000
-
