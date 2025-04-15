@@ -8,7 +8,7 @@ date: 2023-10-13 21:03:24
 
 as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq).
 ```
-hmdv version 2.1.7 - displaying hmdq output data in no time
+hmdv version 2.1.8 - displaying hmdq output data in no time
 
     Time stamp: 2023-10-13 21:03:24
   hmdq version: 2.1.7

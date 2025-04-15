@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2023-12-07 00:54:25
+date: 2025-04-15 19:32:15
 permalink: /
 ---
 # HMD Geometry Database
@@ -69,6 +69,7 @@ Pimax Artisan | [Tiny+Native+R90+I60](hmd_cfgs/PimaxArtisan_Tiny_Native_R90_I60.
 Pimax Artisan | [Tiny+Native+R90+I70](hmd_cfgs/PimaxArtisan_Tiny_Native_R90_I70.md) | [97.49°](images/PimaxArtisan_Tiny_Native_R90_I70_top.dmx.png) | [102.70°](images/PimaxArtisan_Tiny_Native_R90_I70_left.dmx.png) | [107.11°](images/PimaxArtisan_Tiny_Native_R90_I70_over.dmx.png) | [86.79°](images/PimaxArtisan_Tiny_Native_R90_I70_top.dmx.png) | [8.73%](images/PimaxArtisan_Tiny_Native_R90_I70_back.dmx.png) | -10.0° | 10.0°
 Pimax Artisan | [Tiny+PP+R90+I60](hmd_cfgs/PimaxArtisan_Tiny_PP_R90_I60.md) | [111.56°](images/PimaxArtisan_Tiny_PP_R90_I60_top.dmx.png) | ([107.60°](images/PimaxArtisan_Tiny_PP_R90_I60_left.dmx.png)) | [119.12°](images/PimaxArtisan_Tiny_PP_R90_I60_over.dmx.png) | [86.79°](images/PimaxArtisan_Tiny_PP_R90_I60_top.dmx.png) | [19.11%](images/PimaxArtisan_Tiny_PP_R90_I60_back.dmx.png) |  | 
 Pimax Artisan | [Tiny+PP+R90+I70](hmd_cfgs/PimaxArtisan_Tiny_PP_R90_I70.md) | [97.49°](images/PimaxArtisan_Tiny_PP_R90_I70_top.dmx.png) | ([110.63°](images/PimaxArtisan_Tiny_PP_R90_I70_left.dmx.png)) | [113.13°](images/PimaxArtisan_Tiny_PP_R90_I70_over.dmx.png) | [86.79°](images/PimaxArtisan_Tiny_PP_R90_I70_top.dmx.png) | [19.11%](images/PimaxArtisan_Tiny_PP_R90_I70_back.dmx.png) |  | 
+Pimax Crystal Super | [Native+R90](hmd_cfgs/PimaxCrystalSuper_Native_R90.md) | [127.04°](images/PimaxCrystalSuper_Native_R90_top.dmx.png) | [117.35°](images/PimaxCrystalSuper_Native_R90_left.dmx.png) | [133.34°](images/PimaxCrystalSuper_Native_R90_over.dmx.png) | [103.04°](images/PimaxCrystalSuper_Native_R90_top.dmx.png) | [3.49%](images/PimaxCrystalSuper_Native_R90_back.dmx.png) |  | 
 Pimax Crystal | [Native+R120](hmd_cfgs/PimaxCrystal_Native_R120.md) | [103.31°](images/PimaxCrystal_Native_R120_top.dmx.png) | [103.75°](images/PimaxCrystal_Native_R120_left.dmx.png) | [115.99°](images/PimaxCrystal_Native_R120_over.dmx.png) | [83.31°](images/PimaxCrystal_Native_R120_top.dmx.png) | [3.49%](images/PimaxCrystal_Native_R120_back.dmx.png) |  | 
 Pimax Vision 8K Plus | [Large+Native+R110](hmd_cfgs/PimaxVision8KPlus_Large_Native_R110.md) | [159.21°](images/PimaxVision8KPlus_Large_Native_R110_top.dmx.png) | [102.70°](images/PimaxVision8KPlus_Large_Native_R110_left.dmx.png) | [152.17°](images/PimaxVision8KPlus_Large_Native_R110_over.dmx.png) | [86.79°](images/PimaxVision8KPlus_Large_Native_R110_top.dmx.png) | [8.73%](images/PimaxVision8KPlus_Large_Native_R110_back.dmx.png) | -10.0° | 10.0°
 Pimax Vision 8K Plus | [Large+Native+R90](hmd_cfgs/PimaxVision8KPlus_Large_Native_R90.md) | [160.29°](images/PimaxVision8KPlus_Large_Native_R90_top.dmx.png) | [102.70°](images/PimaxVision8KPlus_Large_Native_R90_left.dmx.png) | [158.04°](images/PimaxVision8KPlus_Large_Native_R90_over.dmx.png) | [86.79°](images/PimaxVision8KPlus_Large_Native_R90_top.dmx.png) | [3.49%](images/PimaxVision8KPlus_Large_Native_R90_back.dmx.png) | -10.0° | 10.0°
@@ -101,6 +102,7 @@ Valve Index | [PP+R144](hmd_cfgs/Index_PP_R144.md) | [109.26°](images/Index_PP_
 Varjo Aero | [Native+R90](hmd_cfgs/VarjoAero_Native_R90.md) | [110.76°](images/VarjoAero_Native_R90_top.dmx.png) | [85.61°](images/VarjoAero_Native_R90_left.dmx.png) | [121.17°](images/VarjoAero_Native_R90_over.dmx.png) | [70.02°](images/VarjoAero_Native_R90_top.dmx.png) | [5.83%](images/VarjoAero_Native_R90_back.dmx.png) |  | 
 Varjo VR-2 | [Native+R60](hmd_cfgs/VarjoVR-2_Native_R60.md) | [89.30°](images/VarjoVR-2_Native_R60_top.dmx.png) | [89.30°](images/VarjoVR-2_Native_R60_left.dmx.png) | [92.42°](images/VarjoVR-2_Native_R60_over.dmx.png) | [71.64°](images/VarjoVR-2_Native_R60_top.dmx.png) | [17.84%](images/VarjoVR-2_Native_R60_back.dmx.png) |  | 
 Varjo XR-1 | [Native+R60](hmd_cfgs/VarjoXR-1_Native_R60.md) | [89.12°](images/VarjoXR-1_Native_R60_top.dmx.png) | [89.32°](images/VarjoXR-1_Native_R60_left.dmx.png) | [92.28°](images/VarjoXR-1_Native_R60_over.dmx.png) | [72.27°](images/VarjoXR-1_Native_R60_top.dmx.png) | [17.84%](images/VarjoXR-1_Native_R60_back.dmx.png) |  | 
+Varjo XR-4 | [Native+R90](hmd_cfgs/VarjoXR-4_Native_R90.md) | [114.28°](images/VarjoXR-4_Native_R90_top.dmx.png) | [103.29°](images/VarjoXR-4_Native_R90_left.dmx.png) | [126.83°](images/VarjoXR-4_Native_R90_over.dmx.png) | [90.38°](images/VarjoXR-4_Native_R90_top.dmx.png) |  |  | 
 
 
 ---
@@ -147,5 +149,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2023-12-06 15:20:27  
-The table was generated: 2023-12-07 00:54:25
+The latest headset data recorded: 2025-04-11 15:36:59  
+The table was generated: 2025-04-15 19:32:15

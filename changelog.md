@@ -3,6 +3,11 @@ title: Changelog
 ---
 
 # HMD Geometry Database Changelog
+*April 15, 2025*
+* Pimax Crystal Super (added)
+* Varjo XR-4 (added)
+* Rerendered most of the images with Blender 4.3.2
+
 *December 7, 2023*
 * Bigscreen Beyond (added)
 
