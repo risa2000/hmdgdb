@@ -8,7 +8,7 @@ date: 2023-03-11 19:31:59
 
 as recorded and displayed by [`hmdq` or `hmdv`](https://github.com/risa2000/hmdq).
 ```
-hmdv version 2.1.8 - displaying hmdq output data in no time
+hmdv version 2.2.0 - displaying hmdq output data in no time
 
     Time stamp: 2023-03-11 19:31:59
   hmdq version: 2.1.5
@@ -26,7 +26,7 @@ Default FOV:
     Left eye HAM mesh:
          original vertices: 52, triangles: 52
         optimized vertices: 52, n-gons: 2
-                 mesh area: 11.26 %
+                 mesh area: 9.25 %
 
     Left eye to head transformation matrix:
         [[ 1.      ,  0.      ,  0.      , -0.0315  ],
@@ -57,7 +57,7 @@ Default FOV:
     Right eye HAM mesh:
          original vertices: 52, triangles: 52
         optimized vertices: 52, n-gons: 2
-                 mesh area: 11.26 %
+                 mesh area: 9.25 %
 
     Right eye to head transformation matrix:
         [[ 1.      ,  0.      ,  0.      ,  0.0315  ],
