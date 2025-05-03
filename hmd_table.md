@@ -152,3 +152,5 @@ panels are (most likely) coplanar and parallel to the face.
 
 The latest headset data recorded: 2025-04-20 14:01:09  
 The table was generated: 2025-04-20 19:00:29
+
+<script src="assets/js/sort.js" type="module"></script>
