@@ -4,10 +4,14 @@ title: Changelog
 
 # HMD Geometry Database Changelog
 
+## May 3, 2025
+
+- Added an option to sort the HMD table by a different column (thanks to @greggman).
+
 ## April 20, 2025
 
 - PSVR2 (added)
-- Fixed the HAM area calculation in `hmdq` and published corrected values here
+- Fixed the HAM area calculation in `hmdq` and published corrected values here.
 
 Until now the HAM area calculation assumed that all HAMs were specified inside [(0,0), (1,1)] rectangle and _did not check it_. Thus calculating the total mesh area as a plain sum of all triangles' areas.
 

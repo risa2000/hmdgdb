@@ -1,8 +1,9 @@
 ---
 title: HMD Geometry Database
-date: 2025-04-20 19:00:29
+date: 2025-05-03 15:06:05
 permalink: /
 ---
+
 # HMD Geometry Database
 
 The following table lists the calculated values of _rendered FOVs_ and other
@@ -150,7 +151,7 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2025-04-20 14:01:09  
-The table was generated: 2025-04-20 19:00:29
+The latest headset data recorded: 2025-05-03 12:44:37  
+The table was generated: 2025-05-03 15:06:05
 
 <script src="assets/js/sort.js" type="module"></script>
