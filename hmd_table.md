@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2025-05-03 15:06:05
+date: 2025-11-16 21:46:42
 permalink: /
 ---
 
@@ -20,6 +20,7 @@ see
 
 Model | Config | FOV hor. | FOV ver. | FOV diag. | Overlap | HAM | Rot LE | Rot RE
 --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---:
+Bigscreen Beyond 2E | [Native+R90](hmd_cfgs/Beyond2E_Native_R90.md) | [109.22°](images/Beyond2E_Native_R90_top.dmx.png) | [96.91°](images/Beyond2E_Native_R90_left.dmx.png) | [121.64°](images/Beyond2E_Native_R90_over.dmx.png) | [84.54°](images/Beyond2E_Native_R90_top.dmx.png) |  |  | 
 Bigscreen Beyond | [Native+R90](hmd_cfgs/Beyond_Native_R90.md) | [97.53°](images/Beyond_Native_R90_top.dmx.png) | [88.55°](images/Beyond_Native_R90_left.dmx.png) | [112.16°](images/Beyond_Native_R90_over.dmx.png) | [79.60°](images/Beyond_Native_R90_top.dmx.png) |  |  | 
 DPVR E4 | [Native+R120](hmd_cfgs/E4_Native_R120.md) | [96.00°](images/E4_Native_R120_top.dmx.png) | [96.00°](images/E4_Native_R120_left.dmx.png) | [115.03°](images/E4_Native_R120_over.dmx.png) | [96.00°](images/E4_Native_R120_top.dmx.png) |  |  | 
 HP Reverb G2 | [Native+R90](hmd_cfgs/ReverbG2_Native_R90.md) | [98.85°](images/ReverbG2_Native_R90_top.dmx.png) | [90.85°](images/ReverbG2_Native_R90_left.dmx.png) | [107.52°](images/ReverbG2_Native_R90_over.dmx.png) | [84.31°](images/ReverbG2_Native_R90_top.dmx.png) | [16.51%](images/ReverbG2_Native_R90_back.dmx.png) | 0.2° | -0.2°
@@ -151,7 +152,7 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2025-05-03 12:44:37  
-The table was generated: 2025-05-03 15:06:05
+The latest headset data recorded: 2025-11-11 08:38:14  
+The table was generated: 2025-11-16 21:46:42
 
 <script src="assets/js/sort.js" type="module"></script>

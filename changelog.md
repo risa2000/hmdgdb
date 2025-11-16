@@ -4,6 +4,10 @@ title: Changelog
 
 # HMD Geometry Database Changelog
 
+## November 16, 2025
+
+- Bigscreen Beyond 2E (added)
+
 ## May 3, 2025
 
 - Added an option to sort the HMD table by a different column (thanks to @greggman).
