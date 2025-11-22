@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2025-11-16 21:46:42
+date: 2025-11-21 23:14:22
 permalink: /
 ---
 
@@ -97,6 +97,7 @@ Pimax Vision 8K X | [Small+Native+R75](hmd_cfgs/PimaxVision8KX_Small_Native_R75.
 Pimax Vision 8K X | [Small+PP+R75](hmd_cfgs/PimaxVision8KX_Small_PP_R75.md) | [120.29°](images/PimaxVision8KX_Small_PP_R75_top.dmx.png) | ([104.83°](images/PimaxVision8KX_Small_PP_R75_left.dmx.png)) | [123.86°](images/PimaxVision8KX_Small_PP_R75_over.dmx.png) | [82.95°](images/PimaxVision8KX_Small_PP_R75_top.dmx.png) | [19.11%](images/PimaxVision8KX_Small_PP_R75_back.dmx.png) |  | 
 Pimax Vision 8K X | [Tiny+Native+R75](hmd_cfgs/PimaxVision8KX_Tiny_Native_R75.md) | [100.29°](images/PimaxVision8KX_Tiny_Native_R75_top.dmx.png) | [102.70°](images/PimaxVision8KX_Tiny_Native_R75_left.dmx.png) | [108.96°](images/PimaxVision8KX_Tiny_Native_R75_over.dmx.png) | [82.95°](images/PimaxVision8KX_Tiny_Native_R75_top.dmx.png) | [8.73%](images/PimaxVision8KX_Tiny_Native_R75_back.dmx.png) | -10.0° | 10.0°
 Pimax Vision 8K X | [Tiny+PP+R75](hmd_cfgs/PimaxVision8KX_Tiny_PP_R75.md) | [100.29°](images/PimaxVision8KX_Tiny_PP_R75_top.dmx.png) | ([109.25°](images/PimaxVision8KX_Tiny_PP_R75_left.dmx.png)) | [114.41°](images/PimaxVision8KX_Tiny_PP_R75_over.dmx.png) | [82.95°](images/PimaxVision8KX_Tiny_PP_R75_top.dmx.png) | [19.11%](images/PimaxVision8KX_Tiny_PP_R75_back.dmx.png) |  | 
+Samsung Galaxy XR | [Native+R72](hmd_cfgs/GalaxyXR_Native_R72.md) | [108.98°](images/GalaxyXR_Native_R72_top.dmx.png) | [105.14°](images/GalaxyXR_Native_R72_left.dmx.png) | [124.88°](images/GalaxyXR_Native_R72_over.dmx.png) | [79.75°](images/GalaxyXR_Native_R72_top.dmx.png) |  |  | 
 Sony PS VR2 | [Native+R90](hmd_cfgs/PSVR2_Native_R90.md) | [123.00°](images/PSVR2_Native_R90_top.dmx.png) | [106.08°](images/PSVR2_Native_R90_left.dmx.png) | [127.58°](images/PSVR2_Native_R90_over.dmx.png) | [86.89°](images/PSVR2_Native_R90_top.dmx.png) | [2.34%](images/PSVR2_Native_R90_back.dmx.png) |  | 
 StarVR One | [Compatible+Native+R90](hmd_cfgs/StarVROne_Compatible_Native_R90.md) | [107.22°](images/StarVROne_Compatible_Native_R90_top.dmx.png) | [107.22°](images/StarVROne_Compatible_Native_R90_left.dmx.png) | [107.22°](images/StarVROne_Compatible_Native_R90_over.dmx.png) | [107.22°](images/StarVROne_Compatible_Native_R90_top.dmx.png) | [29.57%](images/StarVROne_Compatible_Native_R90_back.dmx.png) |  | 
 StarVR One | [Normal+Native+R90](hmd_cfgs/StarVROne_Normal_Native_R90.md) | [177.55°](images/StarVROne_Normal_Native_R90_top.dmx.png) | [117.45°](images/StarVROne_Normal_Native_R90_left.dmx.png) | [176.68°](images/StarVROne_Normal_Native_R90_over.dmx.png) | [80.65°](images/StarVROne_Normal_Native_R90_top.dmx.png) | [28.19%](images/StarVROne_Normal_Native_R90_back.dmx.png) | -24.2° | 24.2°
@@ -152,7 +153,7 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2025-11-11 08:38:14  
-The table was generated: 2025-11-16 21:46:42
+The latest headset data recorded: 2025-11-19 11:38:25  
+The table was generated: 2025-11-21 23:14:22
 
 <script src="assets/js/sort.js" type="module"></script>

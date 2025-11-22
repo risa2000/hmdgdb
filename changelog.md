@@ -4,6 +4,10 @@ title: Changelog
 
 # HMD Geometry Database Changelog
 
+## November 22, 2025
+
+- Samsung Galaxy XR (added)
+
 ## November 16, 2025
 
 - Bigscreen Beyond 2E (added)
