@@ -4,6 +4,10 @@ title: Changelog
 
 # HMD Geometry Database Changelog
 
+## February 22, 2026
+
+- Samsung Odyssey+ (added)
+
 ## November 22, 2025
 
 - Samsung Galaxy XR (added)
