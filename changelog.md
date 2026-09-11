@@ -4,6 +4,11 @@ title: Changelog
 
 # HMD Geometry Database Changelog
 
+## September 12, 2026
+
+- Pimax Dream Air Lighthouse (added)
+- Re-rendered to fix some artifacts
+
 ## February 22, 2026
 
 - Samsung Odyssey+ (added)

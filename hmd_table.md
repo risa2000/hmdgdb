@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2026-02-22 14:41:49
+date: 2026-09-11 21:56:33
 permalink: /
 ---
 
@@ -41,6 +41,7 @@ Oculus Quest | [Native+R72](hmd_cfgs/Quest_Native_R72.md) | [104.00°](images/Qu
 Pico Neo2 | [Native+R72](hmd_cfgs/PicoNeo2_Native_R72.md) | [101.00°](images/PicoNeo2_Native_R72_top.dmx.png) | [101.00°](images/PicoNeo2_Native_R72_left.dmx.png) | [119.52°](images/PicoNeo2_Native_R72_over.dmx.png) | [101.00°](images/PicoNeo2_Native_R72_top.dmx.png) |  |  | 
 PICO 4 | [Native+R90](hmd_cfgs/PICO4_Native_R90.md) | [104.00°](images/PICO4_Native_R90_top.dmx.png) | [104.00°](images/PICO4_Native_R90_left.dmx.png) | [122.16°](images/PICO4_Native_R90_over.dmx.png) | [104.00°](images/PICO4_Native_R90_top.dmx.png) |  |  | 
 Pico Neo 3 | [Native+R72](hmd_cfgs/PicoNeo3_Native_R72.md) | [93.87°](images/PicoNeo3_Native_R72_top.dmx.png) | [93.87°](images/PicoNeo3_Native_R72_left.dmx.png) | [113.08°](images/PicoNeo3_Native_R72_over.dmx.png) | [93.87°](images/PicoNeo3_Native_R72_top.dmx.png) |  |  | 
+Pimax Dream Air LH | [Native+R72](hmd_cfgs/DreamAirLH_Native_R72.md) | [110.15°](images/DreamAirLH_Native_R72_top.dmx.png) | [89.09°](images/DreamAirLH_Native_R72_left.dmx.png) | [114.30°](images/DreamAirLH_Native_R72_over.dmx.png) | [91.08°](images/DreamAirLH_Native_R72_top.dmx.png) | [3.49%](images/DreamAirLH_Native_R72_back.dmx.png) |  | 
 Pimax 5K Plus | [Large+Native+R90](hmd_cfgs/Pimax5KPlus_Large_Native_R90.md) | [160.29°](images/Pimax5KPlus_Large_Native_R90_top.dmx.png) | [102.70°](images/Pimax5KPlus_Large_Native_R90_left.dmx.png) | [158.04°](images/Pimax5KPlus_Large_Native_R90_over.dmx.png) | [86.79°](images/Pimax5KPlus_Large_Native_R90_top.dmx.png) | [3.49%](images/Pimax5KPlus_Large_Native_R90_back.dmx.png) | -10.0° | 10.0°
 Pimax 5K Plus | [Large+PP+R90](hmd_cfgs/Pimax5KPlus_Large_PP_R90.md) | [160.29°](images/Pimax5KPlus_Large_PP_R90_top.dmx.png) | ([94.71°](images/Pimax5KPlus_Large_PP_R90_left.dmx.png)) | [159.18°](images/Pimax5KPlus_Large_PP_R90_over.dmx.png) | [86.79°](images/Pimax5KPlus_Large_PP_R90_top.dmx.png) | [13.87%](images/Pimax5KPlus_Large_PP_R90_back.dmx.png) |  | 
 Pimax 5K Plus | [Normal+Native+R144](hmd_cfgs/Pimax5KPlus_Normal_Native_R144.md) | [139.29°](images/Pimax5KPlus_Normal_Native_R144_top.dmx.png) | [102.70°](images/Pimax5KPlus_Normal_Native_R144_left.dmx.png) | [133.95°](images/Pimax5KPlus_Normal_Native_R144_over.dmx.png) | [82.41°](images/Pimax5KPlus_Normal_Native_R144_top.dmx.png) | [8.73%](images/Pimax5KPlus_Normal_Native_R144_back.dmx.png) | -10.0° | 10.0°
@@ -154,7 +155,7 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2026-02-20 23:54:01  
-The table was generated: 2026-02-22 14:41:49
+The latest headset data recorded: 2026-09-10 16:04:30  
+The table was generated: 2026-09-11 21:56:33
 
 <script src="assets/js/sort.js" type="module"></script>
