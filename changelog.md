@@ -4,6 +4,10 @@ title: Changelog
 
 # HMD Geometry Database Changelog
 
+## October 7, 2026
+
+- Steam Frame (added)
+
 ## September 12, 2026
 
 - Pimax Dream Air Lighthouse (added)
