@@ -1,6 +1,6 @@
 ---
 title: HMD Geometry Database
-date: 2026-10-07 11:52:04
+date: 2026-10-08 13:04:33
 permalink: /
 ---
 
@@ -105,7 +105,8 @@ StarVR One | [Compatible+Native+R90](hmd_cfgs/StarVROne_Compatible_Native_R90.md
 StarVR One | [Normal+Native+R90](hmd_cfgs/StarVROne_Normal_Native_R90.md) | [177.55°](images/StarVROne_Normal_Native_R90_top.dmx.png) | [117.45°](images/StarVROne_Normal_Native_R90_left.dmx.png) | [176.68°](images/StarVROne_Normal_Native_R90_over.dmx.png) | [80.65°](images/StarVROne_Normal_Native_R90_top.dmx.png) | [28.19%](images/StarVROne_Normal_Native_R90_back.dmx.png) | -24.2° | 24.2°
 Valve Index | [Native+R144](hmd_cfgs/Index_Native_R144.md) | [108.06°](images/Index_Native_R144_top.dmx.png) | [109.16°](images/Index_Native_R144_left.dmx.png) | [114.43°](images/Index_Native_R144_over.dmx.png) | [85.93°](images/Index_Native_R144_top.dmx.png) | [24.88%](images/Index_Native_R144_back.dmx.png) | -5.0° | 5.0°
 Valve Index | [PP+R144](hmd_cfgs/Index_PP_R144.md) | [109.26°](images/Index_PP_R144_top.dmx.png) | ([108.47°](images/Index_PP_R144_left.dmx.png)) | [114.19°](images/Index_PP_R144_over.dmx.png) | [84.13°](images/Index_PP_R144_top.dmx.png) | [24.88%](images/Index_PP_R144_back.dmx.png) |  | 
-Valve Steam Frame | [Native+R120](hmd_cfgs/SteamFrame_Native_R120.md) | [117.97°](images/SteamFrame_Native_R120_top.dmx.png) | [109.45°](images/SteamFrame_Native_R120_left.dmx.png) | [130.09°](images/SteamFrame_Native_R120_over.dmx.png) | [101.00°](images/SteamFrame_Native_R120_top.dmx.png) |  |  | 
+Valve Steam Frame (PC) | [Native+R120](hmd_cfgs/SteamFramePC_Native_R120.md) | [117.97°](images/SteamFramePC_Native_R120_top.dmx.png) | [109.45°](images/SteamFramePC_Native_R120_left.dmx.png) | [130.09°](images/SteamFramePC_Native_R120_over.dmx.png) | [101.00°](images/SteamFramePC_Native_R120_top.dmx.png) |  |  | 
+Valve Steam Frame (Standalone) | [Native+R120](hmd_cfgs/SteamFrameStandalone_Native_R120.md) | [117.35°](images/SteamFrameStandalone_Native_R120_top.dmx.png) | [109.45°](images/SteamFrameStandalone_Native_R120_left.dmx.png) | [124.85°](images/SteamFrameStandalone_Native_R120_over.dmx.png) | [92.45°](images/SteamFrameStandalone_Native_R120_top.dmx.png) | [15.64%](images/SteamFrameStandalone_Native_R120_back.dmx.png) |  | 
 Varjo Aero | [Native+R90](hmd_cfgs/VarjoAero_Native_R90.md) | [110.76°](images/VarjoAero_Native_R90_top.dmx.png) | [85.61°](images/VarjoAero_Native_R90_left.dmx.png) | [121.17°](images/VarjoAero_Native_R90_over.dmx.png) | [70.02°](images/VarjoAero_Native_R90_top.dmx.png) | [5.83%](images/VarjoAero_Native_R90_back.dmx.png) |  | 
 Varjo VR-2 | [Native+R60](hmd_cfgs/VarjoVR-2_Native_R60.md) | [89.30°](images/VarjoVR-2_Native_R60_top.dmx.png) | [89.30°](images/VarjoVR-2_Native_R60_left.dmx.png) | [92.42°](images/VarjoVR-2_Native_R60_over.dmx.png) | [71.64°](images/VarjoVR-2_Native_R60_top.dmx.png) | [17.84%](images/VarjoVR-2_Native_R60_back.dmx.png) |  | 
 Varjo XR-1 | [Native+R60](hmd_cfgs/VarjoXR-1_Native_R60.md) | [89.12°](images/VarjoXR-1_Native_R60_top.dmx.png) | [89.32°](images/VarjoXR-1_Native_R60_left.dmx.png) | [92.28°](images/VarjoXR-1_Native_R60_over.dmx.png) | [72.27°](images/VarjoXR-1_Native_R60_top.dmx.png) | [17.84%](images/VarjoXR-1_Native_R60_back.dmx.png) |  | 
@@ -156,7 +157,7 @@ panels are (most likely) coplanar and parallel to the face.
 
 ---
 
-The latest headset data recorded: 2026-10-07 00:25:49  
-The table was generated: 2026-10-07 11:52:04
+The latest headset data recorded: 2026-10-07 23:42:53  
+The table was generated: 2026-10-08 13:04:33
 
 <script src="assets/js/sort.js" type="module"></script>

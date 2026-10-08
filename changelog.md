@@ -4,6 +4,10 @@ title: Changelog
 
 # HMD Geometry Database Changelog
 
+## October 8, 2026
+
+- Steam Frame data distinguished for standalone and PC operation.
+
 ## October 7, 2026
 
 - Steam Frame (added)

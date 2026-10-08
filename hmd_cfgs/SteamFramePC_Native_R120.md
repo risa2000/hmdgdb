@@ -1,8 +1,8 @@
 ---
-title: Valve Steam Frame (120Hz)
+title: Valve Steam Frame (PC) (120Hz)
 date: 2026-10-07 00:25:49
 ---
-# Valve Steam Frame (120Hz)
+# Valve Steam Frame (PC) (120Hz)
 
 ## Geometry
 
@@ -122,14 +122,14 @@ of the image.
   into the parallel (checkerboard) plane.
 
 ### Top view
-[![Valve Steam Frame (120Hz) - top view](../images/SteamFrame_Native_R120_top.dmx.png)](../images/SteamFrame_Native_R120_top.dmx.png)
+[![Valve Steam Frame (PC) (120Hz) - top view](../images/SteamFramePC_Native_R120_top.dmx.png)](../images/SteamFramePC_Native_R120_top.dmx.png)
 
 ### Left view
-[![Valve Steam Frame (120Hz) - left view](../images/SteamFrame_Native_R120_left.dmx.png)](../images/SteamFrame_Native_R120_left.dmx.png)
+[![Valve Steam Frame (PC) (120Hz) - left view](../images/SteamFramePC_Native_R120_left.dmx.png)](../images/SteamFramePC_Native_R120_left.dmx.png)
 
 ### Back view
-[![Valve Steam Frame (120Hz) - back view](../images/SteamFrame_Native_R120_back.dmx.png)](../images/SteamFrame_Native_R120_back.dmx.png)
+[![Valve Steam Frame (PC) (120Hz) - back view](../images/SteamFramePC_Native_R120_back.dmx.png)](../images/SteamFramePC_Native_R120_back.dmx.png)
 
 ### Full view
-[![Valve Steam Frame (120Hz) - full view](../images/SteamFrame_Native_R120_over.dmx.png)](../images/SteamFrame_Native_R120_over.dmx.png)
+[![Valve Steam Frame (PC) (120Hz) - full view](../images/SteamFramePC_Native_R120_over.dmx.png)](../images/SteamFramePC_Native_R120_over.dmx.png)
 
